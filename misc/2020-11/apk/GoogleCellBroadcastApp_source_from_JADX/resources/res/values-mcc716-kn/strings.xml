@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ತುರ್ತು ಎಚ್ಚರಿಕೆ: ಪ್ರಾಯೋಗಿಕ/ಪ್ರಾತ್ಯಕ್ಷಿಕೆ ಕುರಿತಾದ ಸಂದೇಶ</string>
+    <string name="cmas_required_monthly_test">ತುರ್ತು ಎಚ್ಚರಿಕೆ: ಪರಿಕ್ಷಾ ಸಂದೇಶ</string>
+    <string name="enable_public_safety_messages_title">ಮಾಹಿತಿಯುಕ್ತ ಸಂದೇಶ</string>
+    <string name="public_safety_message">ಮಾಹಿತಿಯುಕ್ತ ಸಂದೇಶ</string>
+    <string name="pws_other_message_identifiers">ತುರ್ತು ಎಚ್ಚರಿಕೆ: ಪರೀಕ್ಷಾ ಸಂದೇಶ</string>
+</resources>

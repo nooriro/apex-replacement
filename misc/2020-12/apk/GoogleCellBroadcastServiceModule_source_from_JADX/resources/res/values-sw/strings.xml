@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Tulia na utafute hifadhi ya karibu.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Tulia na utafute hifadhi ya karibu.</string>
+    <string name="etws_primary_default_message_others">Arifa imetolewa na serikali za mahali uliko. Maelezo zaidi yanakuja hivi karibuni.</string>
+    <string name="etws_primary_default_message_test">Jaribio la ujumbe wa dharura</string>
+    <string name="etws_primary_default_message_tsunami">Ondoka mara moja kwenye maeneo ya ufuo na mito ili uende kwenye sehemu salama kama vile milimani.</string>
+</resources>

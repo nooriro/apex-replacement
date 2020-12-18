@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Vingrošana</string>
+    <string name="cmas_extreme_alert">Ārkārtas brīdinājums</string>
+    <string name="cmas_extreme_immediate_likely_alert">Ārkārtas brīdinājums</string>
+    <string name="cmas_extreme_immediate_observed_alert">Ārkārtas brīdinājums</string>
+    <string name="cmas_presidential_level_alert">Valsts līmeņa ārkārtas brīdinājums</string>
+    <string name="cmas_required_monthly_test">Testa brīdinājums</string>
+    <string name="cmas_severe_alert">Ārkārtas brīdinājums</string>
+    <string name="enable_cmas_test_alerts_title">Testa brīdinājumi</string>
+    <string name="enable_emergency_alerts_message_title">Brīdinājumi</string>
+    <string name="enable_public_safety_messages_title">Brīdinājumi par sabiedrisko drošību</string>
+    <string name="public_safety_message">Brīdinājums par sabiedrisko drošību</string>
+    <string name="pws_other_message_identifiers">Brīdinājums</string>
+    <string name="state_local_test_alert">Testa brīdinājums</string>
+</resources>

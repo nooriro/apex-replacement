@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">පරිශීලක සැකසීම් නොසලකා ඉතා වැදගත් පණිවිඩ පැමිණිය හැකිය</string>
+    <string name="enable_cmas_test_alerts_title">පෙළ පණිවිඩ</string>
+</resources>

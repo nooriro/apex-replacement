@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">運動</string>
+    <string name="cmas_extreme_alert">極度緊急情況警示</string>
+    <string name="cmas_presidential_level_alert">全國警報通知</string>
+    <string name="cmas_required_monthly_test">測試警報</string>
+    <string name="cmas_severe_alert">緊急情況警示</string>
+    <string name="enable_emergency_alerts_message_summary">有助挽救生命或財產的建議行動</string>
+    <string name="enable_emergency_alerts_message_title">通知</string>
+    <string name="pws_other_message_identifiers">通知</string>
+</resources>

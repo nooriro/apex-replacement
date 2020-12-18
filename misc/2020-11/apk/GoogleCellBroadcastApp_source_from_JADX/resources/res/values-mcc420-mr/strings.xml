@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">व्यायाम</string>
+    <string name="cmas_extreme_alert">अत्यंत आणीबाणीच्या चेतावणी सूचना</string>
+    <string name="cmas_presidential_level_alert">राष्ट्रीय चेतावणीच्या सूचना</string>
+    <string name="cmas_required_monthly_test">चाचणीच्या सूचना</string>
+    <string name="cmas_severe_alert">आणीबाणी चेतावणीच्या सूचना</string>
+    <string name="enable_emergency_alerts_message_summary">जीवन आणि मालमत्ता वाचवू शकतात अशा शिफारस केलेल्या उपाययोजना</string>
+    <string name="enable_emergency_alerts_message_title">सूचना</string>
+    <string name="pws_other_message_identifiers">सूचना</string>
+</resources>

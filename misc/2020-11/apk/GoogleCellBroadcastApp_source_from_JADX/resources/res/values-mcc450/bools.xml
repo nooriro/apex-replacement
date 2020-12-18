@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="override_dnd_default">true</bool>
+    <bool name="show_amber_alert_settings">false</bool>
+    <bool name="show_extreme_alert_settings">false</bool>
+    <bool name="show_severe_alert_settings">false</bool>
+    <bool name="watch_enable_non_emergency_audio">true</bool>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">பாதுகாப்பு விழிப்பூட்டல் அமைப்புக்கான, சோதனைச் செய்திகளைப் பெறவும்</string>
+    <string name="enable_cmas_test_alerts_title">அவசியமான மாதாந்திரச் சோதனை</string>
+    <string name="public_safety_message">எச்சரிக்கைச் செய்தி</string>
+</resources>

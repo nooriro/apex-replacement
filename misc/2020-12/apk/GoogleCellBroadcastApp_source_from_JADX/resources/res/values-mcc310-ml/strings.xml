@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">ലഭിച്ച എല്ലാ മുന്നറിയിപ്പുകളും ഇല്ലാതാക്കണോ?</string>
+    <string name="confirm_delete_broadcast">ഈ മുന്നറിയിപ്പ് ഇല്ലാതാക്കണോ?</string>
+    <string name="enable_cmas_test_alerts_title">മറ്റ് പരിശോധനകൾ</string>
+    <string name="menu_delete">മുന്നറിയിപ്പ് ഇല്ലാതാക്കുക</string>
+    <string name="menu_delete_all">മുന്നറിയിപ്പുകൾ ഇല്ലാതാക്കുക</string>
+    <string name="receive_cmas_in_second_language_summary">സാധ്യമാകുമ്പോൾ അടിയന്തര മുന്നറിയിപ്പുകൾ സ്പാനിഷിൽ സ്വീകരിക്കുക</string>
+    <string name="receive_cmas_in_second_language_title">സ്‌പാനിഷ്</string>
+</resources>

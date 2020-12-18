@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">[Ðéļéţé åļļ ŕéçéîVéð åļéŕţš¿ one two three four]</string>
+    <string name="confirm_delete_broadcast">[Ðéļéţé ţĥîš åļéŕţ¿ one two three]</string>
+    <string name="enable_cmas_test_alerts_title">[Öţĥéŕ ţéšţš one two]</string>
+    <string name="menu_delete">[Ðéļéţé åļéŕţ one two]</string>
+    <string name="menu_delete_all">[Ðéļéţé åļéŕţš one two]</string>
+    <string name="receive_cmas_in_second_language_summary">[ŔéçéîVé éḿéŕĝéñçý åļéŕţš îñ Šþåñîšĥ ŵĥéñ þöššîɓļé one two three four five six]</string>
+    <string name="receive_cmas_in_second_language_title">[Šþåñîšĥ one two]</string>
+</resources>

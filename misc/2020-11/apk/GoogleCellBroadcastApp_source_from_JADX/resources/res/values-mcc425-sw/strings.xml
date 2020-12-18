@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">Ujumbe wa ombi la usaidizi wa umma</string>
+    <string name="cmas_severe_alert">Tahadhari</string>
+    <string name="enable_cmas_amber_alerts_title">Ujumbe wa maombi ya usaidizi wa umma</string>
+    <string name="enable_cmas_severe_threat_alerts_title">Arifa za onyo</string>
+    <string name="enable_public_safety_messages_title">Ujumbe muhimu</string>
+    <string name="public_safety_message">Ujumbe muhimu</string>
+</resources>

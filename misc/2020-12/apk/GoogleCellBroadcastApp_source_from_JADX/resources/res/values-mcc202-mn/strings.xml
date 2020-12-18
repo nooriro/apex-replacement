@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">GR-сэрэмжлүүлэг: Хүүхдийн хулгай</string>
+    <string name="cmas_extreme_alert">GR-сэрэмжлүүлэг: Ноцтой сэрэмжлүүлэг</string>
+    <string name="cmas_extreme_immediate_likely_alert">GR-сэрэмжлүүлэг: Ноцтой сэрэмжлүүлэг</string>
+    <string name="cmas_extreme_immediate_observed_alert">GR-сэрэмжлүүлэг: Ноцтой сэрэмжлүүлэг</string>
+    <string name="cmas_presidential_level_alert">GR-сэрэмжлүүлэг: Ерөнхийлөгчийн сэрэмжлүүлэг</string>
+    <string name="cmas_severe_alert">GR-сэрэмжлүүлэг: Маш ноцтой сэрэмжлүүлэг</string>
+</resources>

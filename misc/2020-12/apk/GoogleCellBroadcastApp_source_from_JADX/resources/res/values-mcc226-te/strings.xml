@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">RO-అలర్ట్: అభ్యాస అలర్ట్</string>
+    <string name="cmas_extreme_alert">RO-అలర్ట్: విపరీత అలర్ట్</string>
+    <string name="cmas_extreme_immediate_likely_alert">RO-అలర్ట్: విపరీత అలర్ట్</string>
+    <string name="cmas_extreme_immediate_observed_alert">RO-అలర్ట్: విపరీత అలర్ట్</string>
+    <string name="cmas_presidential_level_alert">RO-అలర్ట్: అధ్యక్ష అలర్ట్</string>
+    <string name="cmas_severe_alert">RO-అలర్ట్: తీవ్ర అలర్ట్</string>
+    <string name="enable_public_safety_messages_title">నారింజ అలర్ట్</string>
+    <string name="public_safety_message">RO-అలర్ట్: నారింజ అలర్ట్</string>
+</resources>

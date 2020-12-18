@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Mag-ehersisyo</string>
+    <string name="cmas_extreme_alert">Alertong Pang-emergency</string>
+    <string name="cmas_extreme_immediate_likely_alert">Alertong Pang-emergency</string>
+    <string name="cmas_extreme_immediate_observed_alert">Alertong Pang-emergency</string>
+    <string name="cmas_presidential_level_alert">Alerto para sa Pambansang Emergency</string>
+    <string name="cmas_required_monthly_test">Pansubok na Alerto</string>
+    <string name="cmas_severe_alert">Alertong Pang-emergency</string>
+    <string name="enable_cmas_test_alerts_title">Mga Pansubok na Alerto</string>
+    <string name="enable_emergency_alerts_message_title">Mga Alertong Babala</string>
+    <string name="enable_public_safety_messages_title">Mga Alerto para sa Pampublikong Kaligtasan</string>
+    <string name="public_safety_message">Alerto para sa Pampublikong Kaligtasan</string>
+    <string name="pws_other_message_identifiers">Alertong Babala</string>
+    <string name="state_local_test_alert">Pansubok na Alerto</string>
+</resources>

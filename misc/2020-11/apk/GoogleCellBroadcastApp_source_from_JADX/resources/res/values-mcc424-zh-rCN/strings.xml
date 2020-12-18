@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">锻炼</string>
+    <string name="cmas_extreme_alert">紧急警示</string>
+    <string name="cmas_extreme_immediate_likely_alert">紧急警示</string>
+    <string name="cmas_extreme_immediate_observed_alert">紧急警示</string>
+    <string name="cmas_presidential_level_alert">国家紧急警示</string>
+    <string name="cmas_required_monthly_test">测试警示</string>
+    <string name="cmas_severe_alert">紧急警示</string>
+    <string name="enable_cmas_test_alerts_title">测试警示</string>
+    <string name="enable_emergency_alerts_message_title">警示</string>
+    <string name="enable_public_safety_messages_title">公共安全警示</string>
+    <string name="public_safety_message">公共安全警示</string>
+    <string name="pws_other_message_identifiers">警示</string>
+    <string name="state_local_test_alert">测试警示</string>
+</resources>

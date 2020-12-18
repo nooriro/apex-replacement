@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">सुरक्षा सूचना सिस्टमसाठी चाचणी मेसेज मिळवा</string>
+    <string name="enable_cmas_test_alerts_title">आवश्यक मासिक चाचणी</string>
+    <string name="public_safety_message">सूचना मेसेज</string>
+</resources>

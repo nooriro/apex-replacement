@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Ištrinti visus gautus įspėjimus?</string>
+    <string name="confirm_delete_broadcast">Ištrinti šį įspėjimą?</string>
+    <string name="enable_cmas_test_alerts_title">Kiti bandymai</string>
+    <string name="menu_delete">Ištrinti įspėjimą</string>
+    <string name="menu_delete_all">Ištrinti įspėjimus</string>
+    <string name="receive_cmas_in_second_language_summary">Kai galima, gauti įspėjimus apie kritinę padėtį ispanų kalba</string>
+    <string name="receive_cmas_in_second_language_title">Ispanų</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ବ୍ୟାୟାମ ସମ୍ବନ୍ଧରେ ଆଲର୍ଟ</string>
+    <string name="cmas_presidential_level_alert">ଜରୁରୀକାଳୀନ ଆଲର୍ଟ</string>
+    <string name="pws_other_message_identifiers">ଚେତାବନୀ ଆଲର୍ଟ</string>
+</resources>

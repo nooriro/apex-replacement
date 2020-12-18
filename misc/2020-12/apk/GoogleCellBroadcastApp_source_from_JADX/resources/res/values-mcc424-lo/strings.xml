@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ອອກກຳລັງກາຍ</string>
+    <string name="cmas_extreme_alert">ແຈ້ງເຕືອນສຸກເສີນ</string>
+    <string name="cmas_extreme_immediate_likely_alert">ແຈ້ງເຕືອນສຸກເສີນ</string>
+    <string name="cmas_extreme_immediate_observed_alert">ແຈ້ງເຕືອນສຸກເສີນ</string>
+    <string name="cmas_presidential_level_alert">ແຈ້ງເຕືອນສຸກເສີນລະດັບປະເທດ</string>
+    <string name="cmas_required_monthly_test">ທົດສອບແຈ້ງເຕືອນ</string>
+    <string name="cmas_severe_alert">ແຈ້ງເຕືອນສຸກເສີນ</string>
+    <string name="enable_cmas_test_alerts_title">ທົດສອດແຈ້ງເຕືອນ</string>
+    <string name="enable_emergency_alerts_message_title">ແຈ້ງເຕືອນຄຳເຕືອນ</string>
+    <string name="enable_public_safety_messages_title">ແຈ້ງເຕືອນຄວາມປອດໄພສາທາລະນະ</string>
+    <string name="public_safety_message">ແຈ້ງເຕືອນຄວາມປອດໄພສາທາລະນະ</string>
+    <string name="pws_other_message_identifiers">ແຈ້ງເຕືອນຄຳເຕືອນ</string>
+    <string name="state_local_test_alert">ທົດສອບແຈ້ງເຕືອນ</string>
+</resources>

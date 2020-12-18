@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">சோதனை எச்சரிக்கை</string>
+    <string name="cmas_presidential_level_alert">அவசரகால எச்சரிக்கை</string>
+    <string name="pws_other_message_identifiers">எச்சரிக்கை விழிப்பூட்டல்</string>
+</resources>

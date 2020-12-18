@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Simulazione di avviso</string>
+    <string name="cmas_presidential_level_alert">Avviso di emergenza</string>
+    <string name="pws_other_message_identifiers">Avviso</string>
+</resources>

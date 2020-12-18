@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">[Éхéŕçîšé one two]</string>
+    <string name="cmas_extreme_alert">[Éḿéŕĝéñçý Åļéŕţ one two three]</string>
+    <string name="cmas_extreme_immediate_likely_alert">[Éḿéŕĝéñçý Åļéŕţ one two three]</string>
+    <string name="cmas_extreme_immediate_observed_alert">[Éḿéŕĝéñçý Åļéŕţ one two three]</string>
+    <string name="cmas_presidential_level_alert">[Ñåţîöñåļ Éḿéŕĝéñçý Åļéŕţ one two three]</string>
+    <string name="cmas_required_monthly_test">[Ţéšţ Åļéŕţ one two]</string>
+    <string name="cmas_severe_alert">[Éḿéŕĝéñçý Åļéŕţ one two three]</string>
+    <string name="enable_cmas_test_alerts_title">[Ţéšţ Åļéŕţš one two]</string>
+    <string name="enable_emergency_alerts_message_title">[Ŵåŕñîñĝ Åļéŕţš one two three]</string>
+    <string name="enable_public_safety_messages_title">[Þûɓļîç Šåƒéţý Åļéŕţš one two three]</string>
+    <string name="public_safety_message">[Þûɓļîç Šåƒéţý Åļéŕţ one two three]</string>
+    <string name="pws_other_message_identifiers">[Ŵåŕñîñĝ Åļéŕţ one two]</string>
+    <string name="state_local_test_alert">[Ţéšţ Åļéŕţ one two]</string>
+</resources>

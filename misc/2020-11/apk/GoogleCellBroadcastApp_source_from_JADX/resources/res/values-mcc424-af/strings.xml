@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Oefen</string>
+    <string name="cmas_extreme_alert">Noodberig</string>
+    <string name="cmas_extreme_immediate_likely_alert">Noodberig</string>
+    <string name="cmas_extreme_immediate_observed_alert">Noodberig</string>
+    <string name="cmas_presidential_level_alert">Nasionale noodberig</string>
+    <string name="cmas_required_monthly_test">Toetswaarskuwing</string>
+    <string name="cmas_severe_alert">Noodberig</string>
+    <string name="enable_cmas_test_alerts_title">Toetswaarskuwings</string>
+    <string name="enable_emergency_alerts_message_title">Waarskuwings</string>
+    <string name="enable_public_safety_messages_title">Publiekeveiligheidwaarskuwings</string>
+    <string name="public_safety_message">Publiekeveiligheidwaarskuwing</string>
+    <string name="pws_other_message_identifiers">Waarskuwing</string>
+    <string name="state_local_test_alert">Toetswaarskuwing</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">শান্ত থাকুন, আশেপাশে আশ্রয় খুঁজুন।</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">শান্ত থাকুন, আশেপাশে আশ্রয় খুঁজুন।</string>
+    <string name="etws_primary_default_message_others">স্থানীয় সরকারি কর্তৃপক্ষের জারি করা সতর্কতা। আরও তথ্য শীঘ্রই পাওয়া যাবে।</string>
+    <string name="etws_primary_default_message_test">বিপদকালীন বার্তাগুলির পরীক্ষা</string>
+    <string name="etws_primary_default_message_tsunami">উপকূলবর্তী এবং নদীর পাশের অঞ্চল থেকে অবিলম্বে উঁচু কোনো জায়গার দিকে যান।</string>
+</resources>

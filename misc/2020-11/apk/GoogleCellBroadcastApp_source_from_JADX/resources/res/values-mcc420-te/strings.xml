@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">వ్యాయామాలు</string>
+    <string name="cmas_extreme_alert">తీవ్రమైన ఎమర్జెన్సీ హెచ్చరిక అలర్ట్‌లు</string>
+    <string name="cmas_presidential_level_alert">జాతీయ హెచ్చరిక అలర్ట్‌లు</string>
+    <string name="cmas_required_monthly_test">పరీక్ష అలర్ట్‌లు</string>
+    <string name="cmas_severe_alert">ఎమర్జెన్సీ హెచ్చరిక అలర్ట్‌లు</string>
+    <string name="enable_emergency_alerts_message_summary">ప్రాణాలు లేదా ఆస్తులను కాపాడేందుకు సిఫార్సు చేయబడిన చర్యలు</string>
+    <string name="enable_emergency_alerts_message_title">అలర్ట్‌లు</string>
+    <string name="pws_other_message_identifiers">అలర్ట్‌లు</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Motta testmeldinger for systemet for sikkerhetsvarsling</string>
+    <string name="enable_cmas_test_alerts_title">Obligatorisk månedlig test</string>
+    <string name="public_safety_message">Varselmelding</string>
+</resources>

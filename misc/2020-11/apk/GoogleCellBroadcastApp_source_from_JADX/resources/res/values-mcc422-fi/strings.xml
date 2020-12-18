@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Harjoitushälytys</string>
+    <string name="cmas_presidential_level_alert">Hätätilannehälytys</string>
+    <string name="pws_other_message_identifiers">Varoitus</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">লাভ কৰা সকলো সতৰ্কবার্তা মচিবনে?</string>
+    <string name="confirm_delete_broadcast">এই সতৰ্কবার্তাটো মচিবনে?</string>
+    <string name="enable_cmas_test_alerts_title">অন্য পৰীক্ষাসমূহ</string>
+    <string name="menu_delete">সতৰ্কবাৰ্তাটো মচক</string>
+    <string name="menu_delete_all">সতৰ্কবাৰ্তাসমূহ মচক</string>
+    <string name="receive_cmas_in_second_language_summary">যেতিয়া সম্ভৱ জৰুৰীকালীন সতৰ্কবাৰ্তাসমূহ স্পেনিশ্বত লাভ কৰক</string>
+    <string name="receive_cmas_in_second_language_title">স্পেনিশ্ব</string>
+</resources>

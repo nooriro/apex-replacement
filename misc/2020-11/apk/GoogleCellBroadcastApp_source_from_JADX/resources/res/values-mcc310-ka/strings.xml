@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">წაიშალოს ყველა მიღებული გაფრთხილება?</string>
+    <string name="confirm_delete_broadcast">გსურთ ამ გაფრთხილების წაშლა?</string>
+    <string name="enable_cmas_test_alerts_title">სხვა ტესტები</string>
+    <string name="menu_delete">გაფრთხილების წაშლა</string>
+    <string name="menu_delete_all">გაფრთხილებების წაშლა</string>
+    <string name="receive_cmas_in_second_language_summary">საგანგებო გაფრთხილებების მიღება ესპანურ ენაზე, როდესაც ეს შესაძლებელია</string>
+    <string name="receive_cmas_in_second_language_title">ესპანური</string>
+</resources>

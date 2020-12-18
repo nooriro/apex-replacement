@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Վարժանքներ</string>
+    <string name="cmas_extreme_alert">Աղետի մասին բնակչության ազդարարում</string>
+    <string name="cmas_presidential_level_alert">Բնակչության համապետական ազդարարում</string>
+    <string name="cmas_required_monthly_test">Փորձնական ծանուցումներ</string>
+    <string name="cmas_severe_alert">Բնակչության ազդարարում</string>
+    <string name="enable_emergency_alerts_message_summary">Առաջարկվող գործողություններ, որոնք կօգնեն փրկել կյանքը և գույքը</string>
+    <string name="enable_emergency_alerts_message_title">Ծանուցումներ</string>
+    <string name="pws_other_message_identifiers">Ծանուցումներ</string>
+</resources>

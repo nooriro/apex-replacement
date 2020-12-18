@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">ប្រព័ន្ធជូនដំណឹងពេលមានអាសន្នរបស់ក្រិក៖ ការជូនដំណឹងអំពីការចាប់ជំរិតក្មេង</string>
+    <string name="cmas_extreme_alert">ប្រព័ន្ធជូនដំណឹងពេលមានអាសន្នរបស់ក្រិក៖ ការជូនដំណឹងអំពីគ្រោះថ្នាក់ធ្ងន់ធ្ងរបំផុត</string>
+    <string name="cmas_extreme_immediate_likely_alert">ប្រព័ន្ធជូនដំណឹងពេលមានអាសន្នរបស់ក្រិក៖ ការជូនដំណឹងអំពីគ្រោះថ្នាក់ធ្ងន់ធ្ងរបំផុត</string>
+    <string name="cmas_extreme_immediate_observed_alert">ប្រព័ន្ធជូនដំណឹងពេលមានអាសន្នរបស់ក្រិក៖ ការជូនដំណឹងអំពីគ្រោះថ្នាក់ធ្ងន់ធ្ងរបំផុត</string>
+    <string name="cmas_presidential_level_alert">ប្រព័ន្ធជូនដំណឹងពេលមានអាសន្នរបស់ក្រិក៖ ការជូនដំណឹងផ្លូវការ</string>
+    <string name="cmas_severe_alert">ប្រព័ន្ធជូនដំណឹងពេលមានអាសន្នរបស់ក្រិក៖ ការជូនដំណឹងអំពីគ្រោះថ្នាក់ធ្ងន់ធ្ងរ</string>
+</resources>

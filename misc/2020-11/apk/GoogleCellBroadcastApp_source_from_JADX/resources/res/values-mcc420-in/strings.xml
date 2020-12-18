@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Latihan</string>
+    <string name="cmas_extreme_alert">Notifikasi Peringatan Darurat Ekstrim</string>
+    <string name="cmas_presidential_level_alert">Notifikasi Peringatan Nasional</string>
+    <string name="cmas_required_monthly_test">Uji Peringatan</string>
+    <string name="cmas_severe_alert">Notifikasi Peringatan Darurat</string>
+    <string name="enable_emergency_alerts_message_summary">Tindakan yang disarankan untuk menyelamatkan nyawa atau harta benda</string>
+    <string name="enable_emergency_alerts_message_title">Peringatan</string>
+    <string name="pws_other_message_identifiers">Peringatan</string>
+</resources>

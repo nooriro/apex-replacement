@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">RO-Alert: vežba za slučaj upozorenja</string>
+    <string name="cmas_extreme_alert">RO-Alert: upozorenje o ekstremnoj opasnosti</string>
+    <string name="cmas_extreme_immediate_likely_alert">RO-Alert: upozorenje o ekstremnoj opasnosti</string>
+    <string name="cmas_extreme_immediate_observed_alert">RO-Alert: upozorenje o ekstremnoj opasnosti</string>
+    <string name="cmas_presidential_level_alert">RO-Alert: predsedničko upozorenje</string>
+    <string name="cmas_severe_alert">RO-Alert: upozorenje o ozbiljnoj opasnosti</string>
+    <string name="enable_public_safety_messages_title">Narandžasto upozorenje</string>
+    <string name="public_safety_message">RO-Alert: narandžasto upozorenje</string>
+</resources>

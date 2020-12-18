@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Sýndu stillingu og leitaðu skjóls.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Sýndu stillingu og leitaðu skjóls.</string>
+    <string name="etws_primary_default_message_others">Viðvörun frá opinberum yfirvöldum á viðkomandi stað Frekari upplýsingar eru væntanlegar.</string>
+    <string name="etws_primary_default_message_test">Prófun neyðarskilaboða</string>
+    <string name="etws_primary_default_message_tsunami">Fólk sem statt er á strandsvæðum eða við ár á tafarlaust að leita öryggis á svæðum sem eru í meiri hæð yfir sjávarmáli.</string>
+</resources>

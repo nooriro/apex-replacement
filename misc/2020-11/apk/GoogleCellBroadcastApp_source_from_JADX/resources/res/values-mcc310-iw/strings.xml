@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">למחוק את כל ההתראות שהתקבלו?</string>
+    <string name="confirm_delete_broadcast">למחוק את ההתראה הזו?</string>
+    <string name="enable_cmas_test_alerts_title">בדיקות אחרות</string>
+    <string name="menu_delete">מחיקת ההתראה</string>
+    <string name="menu_delete_all">מחיקת ההתראות</string>
+    <string name="receive_cmas_in_second_language_summary">קבלת התרעות על מקרי חירום בספרדית כשזה אפשרי</string>
+    <string name="receive_cmas_in_second_language_title">ספרדית</string>
+</resources>

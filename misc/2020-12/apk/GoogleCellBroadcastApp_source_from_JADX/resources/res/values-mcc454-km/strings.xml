@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_extreme_alert">ការជូនដំណឹង​ពេលមានអាសន្ន</string>
+    <string name="cmas_presidential_level_alert">ការជូន​ដំណឹង​ពេលមានអាសន្នខ្លាំង</string>
+    <string name="cmas_required_monthly_test">សារ​សាកល្បង</string>
+</resources>

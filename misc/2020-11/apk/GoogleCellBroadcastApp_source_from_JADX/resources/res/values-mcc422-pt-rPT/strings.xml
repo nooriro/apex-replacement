@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Alerta de exercício</string>
+    <string name="cmas_presidential_level_alert">Alerta de emergência</string>
+    <string name="pws_other_message_identifiers">Alerta de aviso</string>
+</resources>

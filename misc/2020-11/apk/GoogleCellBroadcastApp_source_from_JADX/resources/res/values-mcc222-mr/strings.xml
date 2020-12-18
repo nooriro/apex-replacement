@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">वापरकर्त्याची सेटिंग्ज काहीही असली तरी महत्त्वाचे मेसेज मिळतील</string>
+    <string name="enable_cmas_test_alerts_title">चाचणी मेसेज</string>
+</resources>

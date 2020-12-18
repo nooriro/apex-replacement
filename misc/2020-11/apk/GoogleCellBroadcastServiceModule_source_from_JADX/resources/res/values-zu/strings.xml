@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Hlala ubeke umoya phansi uphinde ufune ukukhuselwa eduze.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Hlala ubeke umoya phansi uphinde ufune ukukhuselwa eduze.</string>
+    <string name="etws_primary_default_message_others">Isexwayiso sikhishwe uhulumeni wendawo. Ulwazi olwengeziwe luyeza maduze.</string>
+    <string name="etws_primary_default_message_test">Ukuhlolwa kwemilayezo yesimo esiphuthumayo</string>
+    <string name="etws_primary_default_message_tsunami">Phuma ngokushesha kusukela kuzifunda ezingasolwandle nasezindaweni zemifula uye endaweni ephephile efana nendawo ephakeme.</string>
+</resources>

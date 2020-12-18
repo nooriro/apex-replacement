@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Сургуулилт</string>
+    <string name="cmas_extreme_alert">Онцгой байдлын сэрэмжлүүлэг</string>
+    <string name="cmas_extreme_immediate_likely_alert">Онцгой байдлын сэрэмжлүүлэг</string>
+    <string name="cmas_extreme_immediate_observed_alert">Онцгой байдлын сэрэмжлүүлэг</string>
+    <string name="cmas_presidential_level_alert">Үндэсний онцгой байдлын сэрэмжлүүлэг</string>
+    <string name="cmas_required_monthly_test">Туршилтын сэрэмжлүүлэг</string>
+    <string name="cmas_severe_alert">Онцгой байдлын сэрэмжлүүлэг</string>
+    <string name="enable_cmas_test_alerts_title">Туршилтын сэрэмжлүүлэг</string>
+    <string name="enable_emergency_alerts_message_title">Анхааруулах сэрэмжлүүлэг</string>
+    <string name="enable_public_safety_messages_title">Олон нийтийн аюулгүй байдлын сэрэмжлүүлэг</string>
+    <string name="public_safety_message">Олон нийтийн аюулгүй байдлын сэрэмжлүүлэг</string>
+    <string name="pws_other_message_identifiers">Анхааруулах сэрэмжлүүлэг</string>
+    <string name="state_local_test_alert">Туршилтын сэрэмжлүүлэг</string>
+</resources>

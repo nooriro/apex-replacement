@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">要删除收到的所有警报吗？</string>
+    <string name="confirm_delete_broadcast">要删除此警报吗？</string>
+    <string name="enable_cmas_test_alerts_title">其他测试</string>
+    <string name="menu_delete">删除警报</string>
+    <string name="menu_delete_all">删除警报</string>
+    <string name="receive_cmas_in_second_language_summary">接收西班牙语的紧急警报（如有可能）</string>
+    <string name="receive_cmas_in_second_language_title">西班牙语</string>
+</resources>

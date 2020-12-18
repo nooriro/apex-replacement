@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">আপনার পাওয়া সব বিজ্ঞপ্তিমূলক মেসেজ মুছে দেবেন?</string>
+    <string name="confirm_delete_broadcast">সতর্কতাটি মুছবেন?</string>
+    <string name="enable_cmas_test_alerts_title">অন্য পরীক্ষা</string>
+    <string name="menu_delete">সতর্কতাটি মুছুন</string>
+    <string name="menu_delete_all">সতর্কতা মুছুন</string>
+    <string name="receive_cmas_in_second_language_summary">যখনই সম্ভব স্প্যানিশে জরুরি সতর্কতা সংক্রান্ত মেসেজ পান</string>
+    <string name="receive_cmas_in_second_language_title">স্প্যানিশ</string>
+</resources>

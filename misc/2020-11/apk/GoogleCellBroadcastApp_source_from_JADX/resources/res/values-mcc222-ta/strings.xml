@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">பயனர் அமைப்புகள் எதுவாக இருந்தாலும் முக்கிய மெசேஜ்கள் அனுப்பப்படக்கூடும்</string>
+    <string name="enable_cmas_test_alerts_title">சோதனை மெசேஜ்கள்</string>
+</resources>

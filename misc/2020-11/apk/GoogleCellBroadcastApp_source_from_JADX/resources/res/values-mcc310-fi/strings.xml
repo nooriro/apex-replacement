@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Poistetaanko kaikki vastaanotetut hälytykset?</string>
+    <string name="confirm_delete_broadcast">Poistetaanko tämä hälytys?</string>
+    <string name="enable_cmas_test_alerts_title">Muut testit</string>
+    <string name="menu_delete">Poista hälytys</string>
+    <string name="menu_delete_all">Poista hälytykset</string>
+    <string name="receive_cmas_in_second_language_summary">Vastaanota hätähälytyksiä espanjaksi, kun mahdollista</string>
+    <string name="receive_cmas_in_second_language_title">espanja</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">आणीबाणी सूचना: चाचणी/ड्रिल मेसेज</string>
+    <string name="cmas_required_monthly_test">आणीबाणी सूचना: चाचणी मेसेज</string>
+    <string name="enable_public_safety_messages_title">माहितीपूर्ण मेसेज</string>
+    <string name="public_safety_message">माहितीपूर्ण मेसेज</string>
+    <string name="pws_other_message_identifiers">आणीबाणी सूचना: चाचणी मेसेज</string>
+</resources>

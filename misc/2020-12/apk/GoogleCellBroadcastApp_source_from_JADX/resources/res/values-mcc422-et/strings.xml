@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Treeningu märguanne</string>
+    <string name="cmas_presidential_level_alert">Hädaolukorra märguanne</string>
+    <string name="pws_other_message_identifiers">Hoiatusmärguanne</string>
+</resources>

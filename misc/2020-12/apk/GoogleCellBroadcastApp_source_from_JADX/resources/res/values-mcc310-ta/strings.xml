@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">பெறப்பட்ட விழிப்பூட்டல்கள் அனைத்தையும் நீக்கவா?</string>
+    <string name="confirm_delete_broadcast">இந்த விழிப்பூட்டலை நீக்க வேண்டுமா?</string>
+    <string name="enable_cmas_test_alerts_title">பிற சோதனைகள்</string>
+    <string name="menu_delete">விழிப்பூட்டலை நீக்கு</string>
+    <string name="menu_delete_all">விழிப்பூட்டல்களை நீக்கு</string>
+    <string name="receive_cmas_in_second_language_summary">சாத்தியப்படும்போது அவசரகால விழிப்பூட்டல்களை ஸ்பானிஷில் அனுப்புக</string>
+    <string name="receive_cmas_in_second_language_title">ஸ்பானிஷ்</string>
+</resources>

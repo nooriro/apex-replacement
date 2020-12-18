@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Tinchlaning va yaqin-atrofdan boshpana qidiring.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Tinchlaning va yaqin-atrofdan boshpana qidiring.</string>
+    <string name="etws_primary_default_message_others">Ogohlantirishlar mahalliy hokimiyatdan kelgan Batafsil axborot tezda beriladi.</string>
+    <string name="etws_primary_default_message_test">Favqulodda holatlar uchun sinov xabarlari</string>
+    <string name="etws_primary_default_message_tsunami">Qirg‘oq va daryo bo‘ylaridan yuqori tepalik kabi xavfsiz joylarga darhol evakuatsiya qiling.</string>
+</resources>

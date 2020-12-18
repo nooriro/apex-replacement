@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Nødalarm: Øvelsesmeddelelse</string>
+    <string name="cmas_required_monthly_test">Nødalarm: Testmeddelelse</string>
+    <string name="enable_public_safety_messages_title">Informationsmeddelelse</string>
+    <string name="public_safety_message">Informationsmeddelelse</string>
+    <string name="pws_other_message_identifiers">Nødalarm: Testmeddelelse</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ورزشیں</string>
+    <string name="cmas_extreme_alert">انتہائی ایمرجنسی وارننگ الرٹس</string>
+    <string name="cmas_presidential_level_alert">قومی وارننگ الرٹس</string>
+    <string name="cmas_required_monthly_test">ٹیسٹ الرٹس</string>
+    <string name="cmas_severe_alert">ایمرجنسی وارننگ الرٹس</string>
+    <string name="enable_emergency_alerts_message_summary">ایسی تجویز کردہ کارروائیاں جو زندگیاں یا ملکیت بچا سکتی ہیں</string>
+    <string name="enable_emergency_alerts_message_title">الرٹس</string>
+    <string name="pws_other_message_identifiers">الرٹس</string>
+</resources>

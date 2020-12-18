@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="always_enable_exercise_alert">true</bool>
+    <bool name="override_alert_title_language_to_match_message_locale">true</bool>
+    <bool name="override_dnd_default">true</bool>
+    <bool name="show_amber_alert_settings">false</bool>
+    <bool name="show_extreme_alert_settings">false</bool>
+    <bool name="show_severe_alert_settings">false</bool>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">શાંત રહો અને નજીકમાં આશ્રય લો.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">શાંત રહો અને નજીકમાં આશ્રય લો.</string>
+    <string name="etws_primary_default_message_others">સ્થાનિક સરકાર દ્વારા જારી કરવામાં આવેલું અલર્ટ. વધુ માહિતી ટૂંક સમયમાં બહાર પાડવામાં આવશે.</string>
+    <string name="etws_primary_default_message_test">કટોકટી સંદેશાઓનું પરીક્ષણ</string>
+    <string name="etws_primary_default_message_tsunami">દરિયાકિનારાના પ્રદેશો તથા નદીકાંઠાના વિસ્તારો ખાલી કરીને તાત્કાલિક સુરક્ષિત ઊંચા સ્થાન પર જાઓ.</string>
+</resources>

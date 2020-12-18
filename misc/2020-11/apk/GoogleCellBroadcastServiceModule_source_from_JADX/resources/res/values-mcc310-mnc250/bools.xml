@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="duplicate_compare_body">true</bool>
+    <bool name="reset_on_power_cycle_or_airplane_mode">true</bool>
+</resources>

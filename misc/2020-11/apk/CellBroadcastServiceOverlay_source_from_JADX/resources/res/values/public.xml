@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="additional_cell_broadcast_receiver_packages" id="2130771968" />
+    <public type="array" name="test_cell_broadcast_receiver_packages" id="2130771969" />
+</resources>

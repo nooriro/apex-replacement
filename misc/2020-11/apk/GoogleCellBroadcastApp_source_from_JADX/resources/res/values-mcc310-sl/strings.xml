@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Želite izbrisati vsa prejeta opozorila?</string>
+    <string name="confirm_delete_broadcast">Želite izbrisati to opozorilo?</string>
+    <string name="enable_cmas_test_alerts_title">Drugi preizkusi</string>
+    <string name="menu_delete">Izbriši opozorilo</string>
+    <string name="menu_delete_all">Izbriši opozorila</string>
+    <string name="receive_cmas_in_second_language_summary">Prejemanje nujnih opozoril v španščini, kadar je to mogoče</string>
+    <string name="receive_cmas_in_second_language_title">španščina</string>
+</resources>

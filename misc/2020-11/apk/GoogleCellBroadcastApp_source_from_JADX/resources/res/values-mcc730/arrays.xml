@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cmas_alert_extreme_channels_range_strings">
+        <item>0x1113-0x1114:rat=gsm, emergency=true, alert_duration=86400000</item>
+    </array>
+    <array name="cmas_alerts_severe_range_strings">
+        <item>0x1115-0x111A:rat=gsm, emergency=true, alert_duration=86400000</item>
+    </array>
+    <array name="cmas_amber_alerts_channels_range_strings">
+        <item>0x111B:rat=gsm, emergency=true, alert_duration=86400000</item>
+    </array>
+    <array name="cmas_presidential_alerts_channels_range_strings">
+        <item>0x1112:rat=gsm, emergency=true, alert_duration=86400000</item>
+        <item>0x1120-0x1121:rat=gsm, emergency=true</item>
+    </array>
+    <array name="exercise_alert_range_strings">
+        <item>0x111D:rat=gsm, emergency=true, alert_duration=86400000</item>
+    </array>
+    <array name="operator_defined_alert_range_strings">
+        <item>0x111E:rat=gsm, emergency=true, alert_duration=86400000</item>
+    </array>
+    <array name="public_safety_messages_channels_range_strings">
+        <item>0x0397:type=other, emergency=true, alert_duration=86400000</item>
+        <item>0x0399:type=other, emergency=false</item>
+    </array>
+    <array name="required_monthly_test_range_strings">
+        <item>0x111C:rat=gsm, emergency=true, alert_duration=86400000</item>
+        <item>0x207:rat=gsm, emergency=true, alert_duration=86400000</item>
+    </array>
+</resources>

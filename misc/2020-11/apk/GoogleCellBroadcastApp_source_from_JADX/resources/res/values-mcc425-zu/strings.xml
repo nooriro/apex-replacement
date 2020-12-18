@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">Umlayezo wesicelo somsizi womphakathi</string>
+    <string name="cmas_severe_alert">Isexwayiso sokuxwayisa</string>
+    <string name="enable_cmas_amber_alerts_title">Imilayezo yesicelo somsizi somphakathi</string>
+    <string name="enable_cmas_severe_threat_alerts_title">Izexwayiso</string>
+    <string name="enable_public_safety_messages_title">Imilayezo yolwazi</string>
+    <string name="public_safety_message">Umlayezo owazisayo</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">പരിശീലന മുന്നറിയിപ്പ്</string>
+    <string name="cmas_presidential_level_alert">അടിയന്തര മുന്നറിയിപ്പ്</string>
+    <string name="pws_other_message_identifiers">മുന്നറിയിപ്പ് അലേർട്ട്</string>
+</resources>

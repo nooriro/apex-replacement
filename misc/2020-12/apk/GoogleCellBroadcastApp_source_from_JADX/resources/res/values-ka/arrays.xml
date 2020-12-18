@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="alert_reminder_interval_entries">
+        <item>ერთხელ</item>
+        <item>ყოველ 2 წუთში</item>
+        <item>ყოველ 5 წუთში</item>
+        <item>ყოველ 15 წუთში</item>
+        <item>არასოდეს</item>
+    </array>
+</resources>

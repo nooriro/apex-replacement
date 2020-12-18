@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">ଶାନ୍ତ ରୁହନ୍ତୁ ଓ ନିକଟର କୌଣସି ଏକ ଆଶ୍ରୟସ୍ଥଳ ଖୋଜନ୍ତୁ</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">ଶାନ୍ତ ରୁହନ୍ତୁ ଓ ନିକଟର କୌଣସି ଏକ ଆଶ୍ରୟସ୍ଥଳ ଖୋଜନ୍ତୁ</string>
+    <string name="etws_primary_default_message_others">ସ୍ଥାନୀୟ ସରକାରଙ୍କ ଦ୍ୱାରା ଆଲର୍ଟ ଜାରି କରାଯାଇଛି। ଅଧିକ ସୂଚନା ଶୀଘ୍ର ଆସୁଅଛି।</string>
+    <string name="etws_primary_default_message_test">ଜରୁରୀକାଳୀନ ମେସେଜ୍‍ ପରୀକ୍ଷା</string>
+    <string name="etws_primary_default_message_tsunami">ଉପକୂଳବର୍ତ୍ତୀ କ୍ଷେତ୍ର ଏବଂ ନଦୀର ପାର୍ଶ୍ୱ ଅଞ୍ଚଳରୁ ଏକ ଉଚ୍ଚ ଭୂମି ପରି ନିରାପଦ ସ୍ଥାନକୁ ତୁରନ୍ତ ବାହାରିଯାଆନ୍ତୁ।</string>
+</resources>

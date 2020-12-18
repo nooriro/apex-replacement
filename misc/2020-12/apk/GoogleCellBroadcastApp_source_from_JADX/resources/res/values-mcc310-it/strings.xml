@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Vuoi eliminare tutti gli avvisi ricevuti?</string>
+    <string name="confirm_delete_broadcast">Eliminare questo avviso?</string>
+    <string name="enable_cmas_test_alerts_title">Altri test</string>
+    <string name="menu_delete">Elimina avviso</string>
+    <string name="menu_delete_all">Elimina avvisi</string>
+    <string name="receive_cmas_in_second_language_summary">Ricevi avvisi d\'emergenza in spagnolo quando è possibile</string>
+    <string name="receive_cmas_in_second_language_title">Spagnolo</string>
+</resources>

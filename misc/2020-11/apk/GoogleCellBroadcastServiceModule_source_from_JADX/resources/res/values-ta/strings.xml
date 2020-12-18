@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">பதட்டப்படாதீர்கள், அருகில் ஏதேனும் பாதுகாப்பான இடம் உள்ளதா எனப் பாருங்கள்.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">பதட்டப்படாதீர்கள், அருகில் ஏதேனும் பாதுகாப்பான இடம் உள்ளதா எனப் பாருங்கள்.</string>
+    <string name="etws_primary_default_message_others">உள்ளூர் அரசாங்கத்தால் எச்சரிக்கை வழங்கப்பட்டது. விரைவில் கூடுதல் தகவல்கள் வெளியாகும்.</string>
+    <string name="etws_primary_default_message_test">அவசரக் காலச் செய்திகளுக்கான சோதனை</string>
+    <string name="etws_primary_default_message_tsunami">கடலோரப் பகுதிகளிலும் ஆற்றங்கரைகளிலும் வசிப்பவர்கள் உடனடியாகப் பாதுகாப்பான இடத்திற்குச் (மேட்டுப்பகுதி) செல்லவும்.</string>
+</resources>

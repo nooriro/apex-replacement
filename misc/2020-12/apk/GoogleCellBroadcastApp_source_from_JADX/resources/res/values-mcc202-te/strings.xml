@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">GR-అలర్ట్: ఆంబర్ అలర్ట్</string>
+    <string name="cmas_extreme_alert">GR-అలర్ట్: విపరీత అలర్ట్</string>
+    <string name="cmas_extreme_immediate_likely_alert">GR-అలర్ట్: విపరీత అలర్ట్</string>
+    <string name="cmas_extreme_immediate_observed_alert">GR-అలర్ట్: విపరీత అలర్ట్</string>
+    <string name="cmas_presidential_level_alert">GR-అలర్ట్: అధ్యక్ష అలర్ట్</string>
+    <string name="cmas_severe_alert">GR-అలర్ట్: తీవ్ర అలర్ట్</string>
+</resources>

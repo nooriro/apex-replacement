@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">अहम मैसेज स्क्रीन पर दिख सकते हैं, भले ही उपयोगकर्ता ने किसी भी तरह की सेटिंग क्यों न चुनी हों</string>
+    <string name="enable_cmas_test_alerts_title">टेस्ट मैसेज</string>
+</resources>

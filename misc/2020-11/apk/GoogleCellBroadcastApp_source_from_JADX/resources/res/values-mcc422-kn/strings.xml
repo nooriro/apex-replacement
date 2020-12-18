@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ವ್ಯಾಯಾಮ ಕುರಿತು ಅಲರ್ಟ್‌ಗಳು</string>
+    <string name="cmas_presidential_level_alert">ತುರ್ತು ಅಲರ್ಟ್</string>
+    <string name="pws_other_message_identifiers">ಮುನ್ಸೂಚನೆಯ ಅಲರ್ಟ್</string>
+</resources>

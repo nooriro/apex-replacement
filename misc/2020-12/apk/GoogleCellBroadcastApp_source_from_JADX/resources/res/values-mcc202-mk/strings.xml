@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">GR-предупредување: AMBER-предупредување</string>
+    <string name="cmas_extreme_alert">GR-предупредув.: предупредување од највисок степен</string>
+    <string name="cmas_extreme_immediate_likely_alert">GR-предупредув.: предупредување од највисок степен</string>
+    <string name="cmas_extreme_immediate_observed_alert">GR-предупредув.: предупредување од највисок степен</string>
+    <string name="cmas_presidential_level_alert">GR-предупредување: претседателско предупредување</string>
+    <string name="cmas_severe_alert">GR-предупредување: сериозно предупредување</string>
+</resources>

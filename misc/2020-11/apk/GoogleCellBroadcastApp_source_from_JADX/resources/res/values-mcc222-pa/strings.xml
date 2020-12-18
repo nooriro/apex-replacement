@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">ਗੰਭੀਰ ਸੁਨੇਹੇ ਵਰਤੋਂਕਾਰ ਸੈਟਿੰਗਾਂ ਦੀ ਪਰਵਾਹ ਨਾ ਕੀਤੇ ਬਿਨਾਂ ਆ ਸਕਦੇ ਹਨ</string>
+    <string name="enable_cmas_test_alerts_title">ਜਾਂਚ ਸੁਨੇਹੇ</string>
+</resources>

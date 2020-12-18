@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ვარჯიშები</string>
+    <string name="cmas_extreme_alert">ექსტრემალური საგანგებო გამაფრთხილებელი სიგნალები</string>
+    <string name="cmas_presidential_level_alert">ეროვნული საგანგაშო გაფრთხილებები</string>
+    <string name="cmas_required_monthly_test">სატესტო გაფრთხილებები</string>
+    <string name="cmas_severe_alert">საგანგებო გამაფრთხილებელი სიგნალები</string>
+    <string name="enable_emergency_alerts_message_summary">სიცოცხლის ან ქონების გადამრჩენი რეკომენდებული ქმედებები</string>
+    <string name="enable_emergency_alerts_message_title">გაფრთხილებები</string>
+    <string name="pws_other_message_identifiers">გაფრთხილებები</string>
+</resources>

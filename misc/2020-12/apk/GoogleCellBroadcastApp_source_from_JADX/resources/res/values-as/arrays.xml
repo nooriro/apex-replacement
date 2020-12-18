@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="alert_reminder_interval_entries">
+        <item>এবাৰ</item>
+        <item>প্ৰতি ২ মিনিটত</item>
+        <item>প্ৰতি ৫ মিনিটত</item>
+        <item>প্ৰতি ১৫ মিনিটত</item>
+        <item>কেতিয়াও নহয়</item>
+    </array>
+</resources>

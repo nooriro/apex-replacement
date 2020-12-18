@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">[ŔÖ-Åļéŕţ: Éхéŕçîšé Åļéŕţ one two three]</string>
+    <string name="cmas_extreme_alert">[ŔÖ-Åļéŕţ: Éхţŕéḿé Åļéŕţ one two three]</string>
+    <string name="cmas_extreme_immediate_likely_alert">[ŔÖ-Åļéŕţ: Éхţŕéḿé Åļéŕţ one two three]</string>
+    <string name="cmas_extreme_immediate_observed_alert">[ŔÖ-Åļéŕţ: Éхţŕéḿé Åļéŕţ one two three]</string>
+    <string name="cmas_presidential_level_alert">[ŔÖ-Åļéŕţ: Þŕéšîðéñţîåļ Åļéŕţ one two three four]</string>
+    <string name="cmas_severe_alert">[ŔÖ-Åļéŕţ: ŠéVéŕé Åļéŕţ one two three]</string>
+    <string name="enable_public_safety_messages_title">[Öŕåñĝé Åļéŕţ one two]</string>
+    <string name="public_safety_message">[ŔÖ-Åļéŕţ: Öŕåñĝé Åļéŕţ one two three]</string>
+</resources>

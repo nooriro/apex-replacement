@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enable_text_copy">false</bool>
+    <bool name="show_extreme_alert_settings">false</bool>
+    <bool name="show_severe_alert_settings">false</bool>
+</resources>

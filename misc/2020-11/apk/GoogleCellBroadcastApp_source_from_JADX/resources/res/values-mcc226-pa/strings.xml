@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">RO-ਸੁਚੇਤਨਾ: ਅਭਿਆਸੀ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_extreme_alert">RO-ਸੁਚੇਤਨਾ: ਗੰਭੀਰ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_extreme_immediate_likely_alert">RO-ਸੁਚੇਤਨਾ: ਗੰਭੀਰ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_extreme_immediate_observed_alert">RO-ਸੁਚੇਤਨਾ: ਗੰਭੀਰ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_presidential_level_alert">RO-ਸੁਚੇਤਨਾ: ਰਾਸ਼ਟਰਪਤੀ ਵੱਲੋਂ ਸੁਚੇਤਨਾਵਾਂ</string>
+    <string name="cmas_severe_alert">RO-ਸੁਚੇਤਨਾ: ਬਹੁਤ ਗੰਭੀਰ ਸੁਚੇਤਨਾ</string>
+    <string name="enable_public_safety_messages_title">ਸੰਤਰੀ ਸੁਚੇਤਨਾ</string>
+    <string name="public_safety_message">RO-ਸੁਚੇਤਨਾ: ਸੰਤਰੀ ਸੁਚੇਤਨਾ</string>
+</resources>

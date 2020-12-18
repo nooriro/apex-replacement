@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">అందుకున్న అన్ని అలర్ట్‌లను తొలగించాలా?</string>
+    <string name="confirm_delete_broadcast">ఈ అలర్ట్‌ను తొలగించాలా?</string>
+    <string name="enable_cmas_test_alerts_title">ఇతర పరీక్షలు</string>
+    <string name="menu_delete">అలర్ట్‌ను తొలగించండి</string>
+    <string name="menu_delete_all">అలర్ట్‌లను తొలగించండి</string>
+    <string name="receive_cmas_in_second_language_summary">వీలున్నప్పుడు, స్పానిష్ భాషలో ఉన్న అత్యవసర అలర్ట్‌లను స్వీకరించండి</string>
+    <string name="receive_cmas_in_second_language_title">స్పానిష్</string>
+</resources>

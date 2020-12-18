@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Primajte tekstne poruke sustava sigurnosnih upozorenja</string>
+    <string name="enable_cmas_test_alerts_title">Obavezan mjesečni test</string>
+    <string name="public_safety_message">Poruka upozorenja</string>
+</resources>

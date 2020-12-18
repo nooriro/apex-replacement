@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Treening</string>
+    <string name="cmas_extreme_alert">Hädaolukorra märguanne</string>
+    <string name="cmas_extreme_immediate_likely_alert">Hädaolukorra märguanne</string>
+    <string name="cmas_extreme_immediate_observed_alert">Hädaolukorra märguanne</string>
+    <string name="cmas_presidential_level_alert">Riiklik hädaolukorra märguanne</string>
+    <string name="cmas_required_monthly_test">Testhoiatus</string>
+    <string name="cmas_severe_alert">Hädaolukorra märguanne</string>
+    <string name="enable_cmas_test_alerts_title">Testhoiatused</string>
+    <string name="enable_emergency_alerts_message_title">Hoiatusmärguanded</string>
+    <string name="enable_public_safety_messages_title">Avalikud ohutusmärguanded</string>
+    <string name="public_safety_message">Avalik ohutusmärguanne</string>
+    <string name="pws_other_message_identifiers">Hoiatusmärguanne</string>
+    <string name="state_local_test_alert">Testhoiatus</string>
+</resources>

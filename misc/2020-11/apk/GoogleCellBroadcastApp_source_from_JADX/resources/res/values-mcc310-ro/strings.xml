@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Ștergeți toate alertele primite?</string>
+    <string name="confirm_delete_broadcast">Ștergeți această alertă?</string>
+    <string name="enable_cmas_test_alerts_title">Alte teste</string>
+    <string name="menu_delete">Ștergeți alerta</string>
+    <string name="menu_delete_all">Ștergeți alertele</string>
+    <string name="receive_cmas_in_second_language_summary">Trimite alerte de urgență în limba spaniolă dacă este posibil</string>
+    <string name="receive_cmas_in_second_language_title">Spaniolă</string>
+</resources>

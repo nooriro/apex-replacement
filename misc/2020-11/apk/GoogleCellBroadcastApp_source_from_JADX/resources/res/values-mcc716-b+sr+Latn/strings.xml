@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Upozorenje o hitnom slučaju: poruka za vežbu</string>
+    <string name="cmas_required_monthly_test">Obaveštenje o hitnom slučaju: probna poruka</string>
+    <string name="enable_public_safety_messages_title">Informativna poruka</string>
+    <string name="public_safety_message">Informativna poruka</string>
+    <string name="pws_other_message_identifiers">Upozorenje o hitnom slučaju: probna poruka</string>
+</resources>

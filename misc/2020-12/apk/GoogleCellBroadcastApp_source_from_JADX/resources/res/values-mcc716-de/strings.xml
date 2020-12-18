@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Notfallbenachrichtigung: Übungsnachricht</string>
+    <string name="cmas_required_monthly_test">Notfallbenachrichtigung: Testnachricht</string>
+    <string name="enable_public_safety_messages_title">Öffentliche Sicherheitsinformation</string>
+    <string name="public_safety_message">Öffentliche Sicherheitsinformation</string>
+    <string name="pws_other_message_identifiers">Notfallbenachrichtigung: Testnachricht</string>
+</resources>

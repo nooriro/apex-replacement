@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">საზოგადოებრივი დახმარების მოთხოვნის შეტყობინება</string>
+    <string name="cmas_severe_alert">გამაფრთხილებელი შეტყობინება</string>
+    <string name="enable_cmas_amber_alerts_title">საზოგადოებრივი დახმარების მოთხოვნის შეტყობინებები</string>
+    <string name="enable_cmas_severe_threat_alerts_title">გამაფრთხილებელი შეტყობინებები</string>
+    <string name="enable_public_safety_messages_title">საინფორმაციო შეტყობინებები</string>
+    <string name="public_safety_message">საინფორმაციო შეტყობინებები</string>
+</resources>

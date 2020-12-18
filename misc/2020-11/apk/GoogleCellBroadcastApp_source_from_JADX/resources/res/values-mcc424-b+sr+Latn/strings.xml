@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Vežbanje</string>
+    <string name="cmas_extreme_alert">Obaveštenje o hitnom slučaju</string>
+    <string name="cmas_extreme_immediate_likely_alert">Obaveštenje o hitnom slučaju</string>
+    <string name="cmas_extreme_immediate_observed_alert">Obaveštenje o hitnom slučaju</string>
+    <string name="cmas_presidential_level_alert">Obaveštenje o hitnom slučaju na nivou zemlje</string>
+    <string name="cmas_required_monthly_test">Probno obaveštenje</string>
+    <string name="cmas_severe_alert">Obaveštenje o hitnom slučaju</string>
+    <string name="enable_cmas_test_alerts_title">Probna obaveštenja</string>
+    <string name="enable_emergency_alerts_message_title">Obaveštenja o upozorenjima</string>
+    <string name="enable_public_safety_messages_title">Obaveštenja o javnoj bezbednosti</string>
+    <string name="public_safety_message">Obaveštenje o javnoj bezbednosti</string>
+    <string name="pws_other_message_identifiers">Obaveštenje o upozorenju</string>
+    <string name="state_local_test_alert">Probno obaveštenje</string>
+</resources>

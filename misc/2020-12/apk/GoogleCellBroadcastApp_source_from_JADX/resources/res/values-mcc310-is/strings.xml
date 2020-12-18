@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Viltu eyða öllum viðvörunum sem þú hefur móttekið?</string>
+    <string name="confirm_delete_broadcast">Eyða þessari viðvörun?</string>
+    <string name="enable_cmas_test_alerts_title">Aðrar prófanir</string>
+    <string name="menu_delete">Eyða viðvörun</string>
+    <string name="menu_delete_all">Eyða viðvörunum</string>
+    <string name="receive_cmas_in_second_language_summary">Fá neyðartilkynningar á spænsku þegar það er hægt</string>
+    <string name="receive_cmas_in_second_language_title">Spænska</string>
+</resources>

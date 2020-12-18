@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">ទទួលសារអំពីតេស្ត​សម្រាប់ប្រព័ន្ធ​ជូនដំណឹងផ្នែក​សុវត្ថិភាព</string>
+    <string name="enable_cmas_test_alerts_title">តេស្តប្រចាំខែ​ដែល​ចាំបាច់</string>
+    <string name="public_safety_message">សារ​ជូន​ដំណឹង</string>
+</resources>

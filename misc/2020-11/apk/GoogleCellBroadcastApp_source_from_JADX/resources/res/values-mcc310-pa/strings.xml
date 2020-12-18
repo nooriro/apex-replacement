@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">ਕੀ ਸਾਰੀਆਂ ਪ੍ਰਾਪਤ ਕੀਤੀਆਂ ਸੁਚੇਤਨਾਵਾਂ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?</string>
+    <string name="confirm_delete_broadcast">ਕੀ ਇਸ ਸੁਚੇਤਨਾ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?</string>
+    <string name="enable_cmas_test_alerts_title">ਹੋਰ ਜਾਂਚਾਂ</string>
+    <string name="menu_delete">ਸੁਚੇਤਨਾ ਮਿਟਾਓ</string>
+    <string name="menu_delete_all">ਸੁਚੇਤਨਾਵਾਂ ਮਿਟਾਓ</string>
+    <string name="receive_cmas_in_second_language_summary">ਜਦੋਂ ਵੀ ਸੰਭਵ ਹੋਵੇ ਸਪੈਨਿਸ਼ ਵਿੱਚ ਸੰਕਟਕਾਲੀਨ ਸੁਚੇਤਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="receive_cmas_in_second_language_title">ਸਪੈਨਿਸ਼</string>
+</resources>

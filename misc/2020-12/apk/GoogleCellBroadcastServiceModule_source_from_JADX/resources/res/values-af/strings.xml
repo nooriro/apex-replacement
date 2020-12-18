@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Bly kalm en soek skuiling naby.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Bly kalm en soek skuiling naby.</string>
+    <string name="etws_primary_default_message_others">Opletberig is deur plaaslike regering uitgereik. Meer inligting volg binnekort.</string>
+    <string name="etws_primary_default_message_test">Noodboodskappetoets</string>
+    <string name="etws_primary_default_message_tsunami">Ontruim kusgebiede en riviergebiede dadelik en gaan na \'n veiliger plek, soos \'n hoogliggende omgewing.</string>
+</resources>

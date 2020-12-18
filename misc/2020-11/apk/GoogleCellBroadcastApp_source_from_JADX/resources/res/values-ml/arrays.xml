@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="alert_reminder_interval_entries">
+        <item>ഒരിക്കല്‍</item>
+        <item>എല്ലാ 2 മിനിറ്റിലും</item>
+        <item>എല്ലാ 5 മിനിറ്റിലും</item>
+        <item>ഓരോ 15 മിനിറ്റിലും</item>
+        <item>ഒരിക്കലും വേണ്ട</item>
+    </array>
+</resources>

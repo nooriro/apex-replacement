@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">शांत रहा आणि जवळपास निवारा शोधा.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">शांत रहा आणि जवळपास निवारा शोधा.</string>
+    <string name="etws_primary_default_message_others">स्थानिक .शासनाद्वारे सूचना जारी करण्यात आली आहे. अधिक माहिती लवकरच उपलब्ध होईल.</string>
+    <string name="etws_primary_default_message_test">आणीबाणी मेसेज चाचणी</string>
+    <string name="etws_primary_default_message_tsunami">किनारपट्टीचे प्रदेश आणि नदीकाठची क्षेत्रे त्वरित रिकामी करून उंच मैदानासारख्या अधिक सुरक्षित ठिकाणी जा.</string>
+</resources>

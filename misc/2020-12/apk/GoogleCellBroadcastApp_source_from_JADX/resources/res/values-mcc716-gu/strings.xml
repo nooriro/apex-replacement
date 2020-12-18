@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ઇમર્જન્સી અલર્ટ: કસરત/વ્યાયામ સંબંધિત સંદેશ</string>
+    <string name="cmas_required_monthly_test">કટોકટીની ચેતવણી: પરીક્ષણ સંદેશ</string>
+    <string name="enable_public_safety_messages_title">માહિતીપ્રદ સંદેશ</string>
+    <string name="public_safety_message">માહિતીપ્રદ સંદેશ</string>
+    <string name="pws_other_message_identifiers">ઇમર્જન્સી અલર્ટ: પરીક્ષણ સંદેશ</string>
+</resources>

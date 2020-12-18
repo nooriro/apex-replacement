@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" package="com.android.cellbroadcastservice.overlay.pixel" platformBuildVersionCode="30" platformBuildVersionName="11">
+    <uses-sdk android:minSdkVersion="30" android:targetSdkVersion="30"/>
+    <application android:hasCode="false" android:extractNativeLibs="false"/>
+    <overlay android:priority="0" android:targetPackage="com.google.android.cellbroadcastservice" android:targetName="CellBroadcastServiceCustomization" android:isStatic="true"/>
+</manifest>

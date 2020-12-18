@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">শান্ত হৈ থাকক আৰু ওচৰৰ ক\'ৰবাত আশ্ৰয় বিচাৰক।</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">শান্ত হৈ থাকক আৰু ওচৰৰ ক\'ৰবাত আশ্ৰয় বিচাৰক।</string>
+    <string name="etws_primary_default_message_others">স্থানীয় চৰকাৰে সতৰ্কবার্তা জাৰি কৰিছে। অধিক তথ্য শীঘ্রেই উপলব্ধ হ’ব।</string>
+    <string name="etws_primary_default_message_test">জৰুৰীকালীন বাৰ্তা সম্পৰ্কীয় পৰীক্ষণ</string>
+    <string name="etws_primary_default_message_tsunami">উপকূলীয় আৰু নদী-কাযৰীয়া অঞ্চলৰ পৰা তৎক্ষণাৎ আঁতৰ হওক আৰু ওখ অঞ্চলৰ নিচিনা নিৰাপদ ঠাইত আশ্ৰয় লওক।</string>
+</resources>

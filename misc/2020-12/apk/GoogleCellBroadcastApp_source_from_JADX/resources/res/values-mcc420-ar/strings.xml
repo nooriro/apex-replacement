@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">تدريبات</string>
+    <string name="cmas_extreme_alert">تنبيهات طوارئ قصوى</string>
+    <string name="cmas_presidential_level_alert">تنبيهات على المستوى الوطني</string>
+    <string name="cmas_required_monthly_test">تنبيهات اختبار</string>
+    <string name="cmas_severe_alert">تنبيهات الطوارئ</string>
+    <string name="enable_emergency_alerts_message_summary">الإجراءات المقترحة التي يمكن أن تنقذ الأرواح أو الممتلكات</string>
+    <string name="enable_emergency_alerts_message_title">التنبيهات</string>
+    <string name="pws_other_message_identifiers">التنبيهات</string>
+</resources>

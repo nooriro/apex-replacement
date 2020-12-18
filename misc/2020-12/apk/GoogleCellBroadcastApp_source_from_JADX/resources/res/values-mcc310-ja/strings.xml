@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">受信したアラートをすべて削除しますか？</string>
+    <string name="confirm_delete_broadcast">このアラートを削除しますか？</string>
+    <string name="enable_cmas_test_alerts_title">その他のテスト</string>
+    <string name="menu_delete">アラートを削除</string>
+    <string name="menu_delete_all">アラートを削除</string>
+    <string name="receive_cmas_in_second_language_summary">可能な場合はスペイン語で緊急アラートを受信する</string>
+    <string name="receive_cmas_in_second_language_title">スペイン語</string>
+</resources>

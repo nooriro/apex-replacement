@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">പരിഭ്രമിക്കാതിരിക്കുക, അടുത്തുള്ള അഭയകേന്ദ്രം തേടുക.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">പരിഭ്രമിക്കാതിരിക്കുക, അടുത്തുള്ള അഭയകേന്ദ്രം തേടുക.</string>
+    <string name="etws_primary_default_message_others">പ്രാദേശിക സർക്കാർ നൽകിയ മുന്നറിയിപ്പ്. കൂടുതൽ വിവരങ്ങൾ ഉടൻ.</string>
+    <string name="etws_primary_default_message_test">അടിയന്തര സന്ദേശ ടെസ്റ്റ്</string>
+    <string name="etws_primary_default_message_tsunami">തീരപ്രദേശങ്ങളിൽ നിന്നും നദിക്കരകളിൽ നിന്നും ആളുകളെ ഉടനടി ഒഴിപ്പിച്ച് ഉയർന്ന ഭൂമിയിൽ എത്തിക്കുക.</string>
+</resources>

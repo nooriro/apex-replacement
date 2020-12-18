@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">罗马尼亚警报：演习警报</string>
+    <string name="cmas_extreme_alert">罗马尼亚警报：极严重警报</string>
+    <string name="cmas_extreme_immediate_likely_alert">罗马尼亚警报：极严重警报</string>
+    <string name="cmas_extreme_immediate_observed_alert">罗马尼亚警报：极严重警报</string>
+    <string name="cmas_presidential_level_alert">罗马尼亚警报：国家级警报</string>
+    <string name="cmas_severe_alert">罗马尼亚警报：严重警报</string>
+    <string name="enable_public_safety_messages_title">橙色警报</string>
+    <string name="public_safety_message">罗马尼亚警报：橙色警报</string>
+</resources>

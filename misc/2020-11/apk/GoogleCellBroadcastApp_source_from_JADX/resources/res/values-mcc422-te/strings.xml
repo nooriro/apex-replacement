@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">వ్యాయామ అలర్ట్</string>
+    <string name="cmas_presidential_level_alert">అత్యవసర అలర్ట్</string>
+    <string name="pws_other_message_identifiers">హెచ్చరిక అలర్ట్</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Notifikasi latihan</string>
+    <string name="cmas_presidential_level_alert">Notifikasi darurat</string>
+    <string name="pws_other_message_identifiers">Notifikasi peringatan</string>
+</resources>

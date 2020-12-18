@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Testberichten van het noodsysteem voor veiligheidsmeldingen ontvangen</string>
+    <string name="enable_cmas_test_alerts_title">Vereiste maandelijkse test</string>
+    <string name="public_safety_message">Waarschuwingsbericht</string>
+</resources>

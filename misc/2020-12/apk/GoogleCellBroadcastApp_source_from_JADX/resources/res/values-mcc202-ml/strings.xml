@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">GR-അലേർട്ട്: ആമ്പർ അലേർട്ട്</string>
+    <string name="cmas_extreme_alert">GR-അലേർട്ട്: എക്‌സ്ട്രീം അലേർട്ട്</string>
+    <string name="cmas_extreme_immediate_likely_alert">GR-അലേർട്ട്: എക്‌സ്ട്രീം അലേർട്ട്</string>
+    <string name="cmas_extreme_immediate_observed_alert">GR-അലേർട്ട്: എക്‌സ്ട്രീം അലേർട്ട്</string>
+    <string name="cmas_presidential_level_alert">GR-അലേർട്ട്: പ്രസിഡൻഷ്യൽ അലേർട്ട്</string>
+    <string name="cmas_severe_alert">GR-അലേർട്ട്: സിവിയർ അലേർട്ട്</string>
+</resources>

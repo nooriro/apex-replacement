@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">تلقّي رسائل اختبار لنظام تنبيهات السلامة</string>
+    <string name="enable_cmas_test_alerts_title">الاختبار الشهري المطلوب</string>
+    <string name="public_safety_message">رسالة التنبيه</string>
+</resources>

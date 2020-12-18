@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">ସାର୍ବଜନିକ ସହାୟକ ଅନୁରୋଧ ମେସେଜ୍</string>
+    <string name="cmas_severe_alert">ଚେତାବନୀ ଆଲର୍ଟ</string>
+    <string name="enable_cmas_amber_alerts_title">ସାର୍ବଜନିକ ସହାୟତା ଅନୁରୋଧ ମେସେଜ୍</string>
+    <string name="enable_cmas_severe_threat_alerts_title">ଚେତାବନୀ ଆଲର୍ଟ</string>
+    <string name="enable_public_safety_messages_title">ଶିକ୍ଷାପ୍ରଦ ମେସେଜ୍‌ଗୁଡ଼ିକ</string>
+    <string name="public_safety_message">ଶିକ୍ଷାପ୍ରଦ ମେସେଜ୍</string>
+</resources>

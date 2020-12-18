@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Makatanggap ng mga pansubok na mensahe para sa system ng alerto sa kaligtasan</string>
+    <string name="enable_cmas_test_alerts_title">Kinakailangang buwanang pagsubok</string>
+    <string name="public_safety_message">Mensahe ng alerto</string>
+</resources>

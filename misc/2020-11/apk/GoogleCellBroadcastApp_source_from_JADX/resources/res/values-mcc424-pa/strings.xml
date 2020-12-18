@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ਕਸਰਤ</string>
+    <string name="cmas_extreme_alert">ਸੰਕਟਕਾਲੀਨ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_extreme_immediate_likely_alert">ਸੰਕਟਕਾਲੀਨ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_extreme_immediate_observed_alert">ਸੰਕਟਕਾਲੀਨ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_presidential_level_alert">ਕੌਮੀ ਸੰਕਟਕਾਲੀਨ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_required_monthly_test">ਜਾਂਚ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_severe_alert">ਸੰਕਟਕਾਲੀਨ ਸੁਚੇਤਨਾ</string>
+    <string name="enable_cmas_test_alerts_title">ਜਾਂਚ ਸੁਚੇਤਨਾਵਾਂ</string>
+    <string name="enable_emergency_alerts_message_title">ਚਿਤਾਵਨੀ ਸੁਚੇਤਨਾਵਾਂ</string>
+    <string name="enable_public_safety_messages_title">ਜਨਤਕ ਸੁਰੱਖਿਆ ਸੁਚੇਤਨਾਵਾਂ</string>
+    <string name="public_safety_message">ਜਨਤਕ ਸੁਰੱਖਿਆ ਸੁਚੇਤਨਾ</string>
+    <string name="pws_other_message_identifiers">ਚਿਤਾਵਨੀ ਸੁਚੇਤਨਾ</string>
+    <string name="state_local_test_alert">ਜਾਂਚ ਸੁਚੇਤਨਾ</string>
+</resources>

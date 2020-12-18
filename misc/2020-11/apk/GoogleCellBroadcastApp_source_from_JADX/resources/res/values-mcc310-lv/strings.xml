@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Vai dzēst visus saņemtos brīdinājumus?</string>
+    <string name="confirm_delete_broadcast">Vai dzēst šo brīdinājumu?</string>
+    <string name="enable_cmas_test_alerts_title">Citi testi</string>
+    <string name="menu_delete">Dzēst brīdinājumu</string>
+    <string name="menu_delete_all">Dzēst brīdinājumus</string>
+    <string name="receive_cmas_in_second_language_summary">Saņemt ārkārtas brīdinājumus spāņu valodā, kad iespējams</string>
+    <string name="receive_cmas_in_second_language_title">Spāņu</string>
+</resources>

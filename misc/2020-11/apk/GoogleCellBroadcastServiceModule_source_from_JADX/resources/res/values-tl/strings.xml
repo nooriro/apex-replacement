@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Manatiling kalmado at maghanap ng matutuluyan sa malapit.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Manatiling kalmado at maghanap ng matutuluyan sa malapit.</string>
+    <string name="etws_primary_default_message_others">Mula sa lokal na pamahalaan ang alerto. May paparating pang karagdagang impormasyon.</string>
+    <string name="etws_primary_default_message_test">Pagsubok sa mga mensaheng pang-emergency</string>
+    <string name="etws_primary_default_message_tsunami">Umalis kaagad sa mga baybayin at pampang, at pumunta sa isang mas ligtas na lokasyon tulad ng isang mataas na lugar.</string>
+</resources>

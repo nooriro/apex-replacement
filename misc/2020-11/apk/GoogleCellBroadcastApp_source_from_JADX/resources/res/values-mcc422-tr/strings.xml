@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Tatbikat uyarısı</string>
+    <string name="cmas_presidential_level_alert">Acil durum uyarısı</string>
+    <string name="pws_other_message_identifiers">Uyarı</string>
+</resources>

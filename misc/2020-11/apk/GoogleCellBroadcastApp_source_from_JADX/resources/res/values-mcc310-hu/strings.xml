@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Biztosan törli az összes beérkező értesítést?</string>
+    <string name="confirm_delete_broadcast">Törli ezt az értesítést?</string>
+    <string name="enable_cmas_test_alerts_title">Egyéb tesztek</string>
+    <string name="menu_delete">Értesítés törlése</string>
+    <string name="menu_delete_all">Értesítések törlése</string>
+    <string name="receive_cmas_in_second_language_summary">Vészjelzések fogadása spanyol nyelven, amikor csak lehetséges</string>
+    <string name="receive_cmas_in_second_language_title">spanyol</string>
+</resources>

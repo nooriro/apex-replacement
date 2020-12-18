@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/parentPanel" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="8dp" android:layout_marginEnd="8dp">
+    <LinearLayout android:orientation="vertical" android:id="@+id/topPanel" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <View android:id="@+id/titleDividerTop" android:background="@android:color/holo_blue_light" android:visibility="gone" android:layout_width="match_parent" android:layout_height="2dp"/>
+        <LinearLayout android:gravity="left|center_vertical|center_horizontal|center|start" android:orientation="horizontal" android:id="@+id/title_template" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/alert_dialog_title_height" android:layout_marginStart="16dp" android:layout_marginEnd="16dp">
+            <ImageView android:id="@+id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:paddingEnd="8dp"/>
+            <com.android.internal.widget.DialogTitle android:ellipsize="end" android:id="@+id/alertTitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" style="?android:attr/windowTitleStyle"/>
+        </LinearLayout>
+        <View android:id="@+id/titleDivider" android:background="@android:color/holo_blue_light" android:visibility="gone" android:layout_width="match_parent" android:layout_height="2dp"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/contentPanel" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1">
+        <ScrollView android:id="@+id/scrollView" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true">
+            <TextView android:id="@+id/message" android:paddingTop="8dp" android:paddingBottom="8dp" android:longClickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="16dp" android:paddingEnd="16dp" style="?android:attr/textAppearanceMedium"/>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@+id/pictogramPanel" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/pictogramImage" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:scaleType="fitCenter" android:adjustViewBounds="true" android:layout_marginStart="32dp" android:layout_marginEnd="32dp"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/buttonPanel" android:layout_width="match_parent" android:layout_height="wrap_content" android:divider="?android:attr/dividerHorizontal" android:minHeight="@dimen/alert_dialog_button_bar_height" android:showDividers="beginning" android:dividerPadding="0dp">
+        <LinearLayout android:gravity="end" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:measureWithLargestChild="true" style="?android:attr/buttonBarStyle">
+            <Button android:textSize="14sp" android:id="@+id/dismissButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/alert_dialog_button_bar_height" android:text="@string/button_dismiss" android:maxLines="2" android:layout_weight="0" style="?android:attr/buttonBarButtonStyle"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

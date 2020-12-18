@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">លំហាត់</string>
+    <string name="cmas_extreme_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+    <string name="cmas_extreme_immediate_likely_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+    <string name="cmas_extreme_immediate_observed_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+    <string name="cmas_presidential_level_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្នថ្នាក់ជាតិ</string>
+    <string name="cmas_required_monthly_test">ការ​ជូន​ដំណឹងសាកល្បង</string>
+    <string name="cmas_severe_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+    <string name="enable_cmas_test_alerts_title">ការជូនដំណឹង​សាកល្បង</string>
+    <string name="enable_emergency_alerts_message_title">ការជូនដំណឹង​អំពី​ការព្រមាន</string>
+    <string name="enable_public_safety_messages_title">ការជូនដំណឹង​អំពីសុវត្ថិភាព​សាធារណៈ</string>
+    <string name="public_safety_message">ការជូនដំណឹង​អំពីសុវត្ថិភាព​សាធារណៈ</string>
+    <string name="pws_other_message_identifiers">ការជូនដំណឹង​អំពីការព្រមាន</string>
+    <string name="state_local_test_alert">ការ​ជូន​ដំណឹងសាកល្បង</string>
+</resources>

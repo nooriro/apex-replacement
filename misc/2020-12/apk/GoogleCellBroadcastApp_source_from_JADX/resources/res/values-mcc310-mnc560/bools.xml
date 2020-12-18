@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="allow_testing_mode_on_user_build">true</bool>
+    <bool name="show_cmas_messages_in_priority_order">true</bool>
+    <bool name="show_date_time_title">true</bool>
+    <bool name="show_presidential_alerts_settings">true</bool>
+    <bool name="show_test_settings">false</bool>
+</resources>

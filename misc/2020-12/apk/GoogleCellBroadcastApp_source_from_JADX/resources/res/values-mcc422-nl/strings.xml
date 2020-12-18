@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Oefeningsmelding</string>
+    <string name="cmas_presidential_level_alert">Noodmelding</string>
+    <string name="pws_other_message_identifiers">Waarschuwingsmelding</string>
+</resources>

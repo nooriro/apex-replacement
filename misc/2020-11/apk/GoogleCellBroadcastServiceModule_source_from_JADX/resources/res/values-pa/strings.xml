@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">ਸ਼ਾਂਤ ਰਹੋ ਅਤੇ ਆਸ-ਪਾਸ ਪਨਾਹ ਮੰਗੋ।</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">ਸ਼ਾਂਤ ਰਹੋ ਅਤੇ ਆਸ-ਪਾਸ ਪਨਾਹ ਮੰਗੋ।</string>
+    <string name="etws_primary_default_message_others">ਸਥਾਨਕ ਸਰਕਾਰ ਵੱਲੋਂ ਸੁਚੇਤਨਾ ਜਾਰੀ ਕੀਤੀ ਗਈ। ਹੋਰ ਜਾਣਕਾਰੀ ਜਲਦ ਹੀ ਆ ਰਹੀ ਹੈ।</string>
+    <string name="etws_primary_default_message_test">ਸੰਕਟਕਾਲੀਨ ਸੰਦੇਸ਼ ਟੈਸਟ</string>
+    <string name="etws_primary_default_message_tsunami">ਤੁਰੰਤ ਤੱਟੀ ਖੇਤਰਾਂ ਅਤੇ ਨਦੀ ਦੇ ਕਿਨਾਰੇ ਵਾਲੇ ਖੇਤਰਾਂ ਨੂੰ ਖਾਲੀ ਕਰ ਕੇ ਕਿਸੇ ਸੁਰੱਖਿਅਤ ਸਥਾਨ \'ਤੇ ਚਲੇ ਜਾਓ ਜਿਵੇਂ ਕਿ ਉੱਚੀ ਜ਼ਮੀਨ।</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Mazoezi</string>
+    <string name="cmas_extreme_alert">Arifa za Maonyo ya Dharura za Kupindukia</string>
+    <string name="cmas_presidential_level_alert">Arifa za Maonyo ya Kitaifa</string>
+    <string name="cmas_required_monthly_test">Arifa za Majaribio</string>
+    <string name="cmas_severe_alert">Arifa za Maonyo ya Dharura</string>
+    <string name="enable_emergency_alerts_message_summary">Hatua zinazopendekezwa ambazo zinaweza kuokoa maisha au mali</string>
+    <string name="enable_emergency_alerts_message_title">Arifa</string>
+    <string name="pws_other_message_identifiers">Arifa</string>
+</resources>

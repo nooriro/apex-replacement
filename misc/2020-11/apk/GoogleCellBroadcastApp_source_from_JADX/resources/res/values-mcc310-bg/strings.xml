@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Да се изтрият ли всички получени сигнали?</string>
+    <string name="confirm_delete_broadcast">Да се изтрие ли този сигнал?</string>
+    <string name="enable_cmas_test_alerts_title">Други тестове</string>
+    <string name="menu_delete">Изтриване на сигнала</string>
+    <string name="menu_delete_all">Изтриване на сигналите</string>
+    <string name="receive_cmas_in_second_language_summary">Получаване на сигнали при спешни случаи на испански, когато е възможно</string>
+    <string name="receive_cmas_in_second_language_title">Испански</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Сигнал за провеждане на учение</string>
+    <string name="cmas_presidential_level_alert">Сигнал при спешни случаи</string>
+    <string name="pws_other_message_identifiers">Сигнал за предупреждение</string>
+</resources>

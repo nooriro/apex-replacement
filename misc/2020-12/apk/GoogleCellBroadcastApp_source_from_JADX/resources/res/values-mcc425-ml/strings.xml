@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">പൊതു സഹായ അഭ്യർത്ഥനാ സന്ദേശം</string>
+    <string name="cmas_severe_alert">മുന്നറിയിപ്പ്</string>
+    <string name="enable_cmas_amber_alerts_title">പൊതു സഹായ അഭ്യർത്ഥനാ സന്ദേശങ്ങൾ</string>
+    <string name="enable_cmas_severe_threat_alerts_title">മുന്നറിയിപ്പുകൾ</string>
+    <string name="enable_public_safety_messages_title">അറിവ് നൽകുന്ന സന്ദേശങ്ങൾ</string>
+    <string name="public_safety_message">അറിവ് നൽകുന്ന സന്ദേശം</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">Mensahe ng kahilingan sa tulong ng publiko</string>
+    <string name="cmas_severe_alert">Alertong babala</string>
+    <string name="enable_cmas_amber_alerts_title">Mga mensahe ng kahilingan sa tulong ng publiko</string>
+    <string name="enable_cmas_severe_threat_alerts_title">Mga alertong babala</string>
+    <string name="enable_public_safety_messages_title">Mga mensaheng nagbibigay ng impormasyon</string>
+    <string name="public_safety_message">Mensaheng nagbibigay ng impormasyon</string>
+</resources>

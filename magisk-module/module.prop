@@ -1,0 +1,6 @@
+id=apex-replacement
+name=Cell Broadcast Bug Fix (Pixel RQ1A)
+version=v1.00-20201218
+versionCode=20201218
+author=nooriro
+description=Fix annoying public safety message bug in Android 11 1st Feature Drop (December 2020 Update) of Google Pixel devices

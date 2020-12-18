@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">සියලු ලැබුණු ඇඟවීම් මකන්නද?</string>
+    <string name="confirm_delete_broadcast">මෙම ඇඟවීම මකන්නද?</string>
+    <string name="enable_cmas_test_alerts_title">වෙනත් පරීක්ෂා</string>
+    <string name="menu_delete">ඇඟවීම මකන්න</string>
+    <string name="menu_delete_all">ඇඟවීම් මකන්න</string>
+    <string name="receive_cmas_in_second_language_summary">හැකි විට ස්පාඤ්ඤ භාෂාවෙන් හදිසි අනතුරු ඇඟවීම් ලබා ගන්න</string>
+    <string name="receive_cmas_in_second_language_title">ස්පාඤ්ඤ</string>
+</resources>

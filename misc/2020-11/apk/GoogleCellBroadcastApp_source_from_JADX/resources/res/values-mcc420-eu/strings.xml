@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Ariketak</string>
+    <string name="cmas_extreme_alert">Larrialdi handiko alertak</string>
+    <string name="cmas_presidential_level_alert">Alerta nazionalak</string>
+    <string name="cmas_required_monthly_test">Testu-mezu bidezko alertak</string>
+    <string name="cmas_severe_alert">Larrialdi-alertak</string>
+    <string name="enable_emergency_alerts_message_summary">Bizia edo ondasunak salbatzeko ekintza gomendatuak</string>
+    <string name="enable_emergency_alerts_message_title">Alertak</string>
+    <string name="pws_other_message_identifiers">Alertak</string>
+</resources>

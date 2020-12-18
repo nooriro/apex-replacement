@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Upozorenje rumunske vlade: upozorenje za vježbu</string>
+    <string name="cmas_extreme_alert">Upozorenje rumunske vlade: ekstremno upozorenje</string>
+    <string name="cmas_extreme_immediate_likely_alert">Upozorenje rumunske vlade: ekstremno upozorenje</string>
+    <string name="cmas_extreme_immediate_observed_alert">Upozorenje rumunske vlade: ekstremno upozorenje</string>
+    <string name="cmas_presidential_level_alert">Upozorenje rumunske vlade: predsjedničko upozorenje</string>
+    <string name="cmas_severe_alert">Upozorenje rumunske vlade: ozbiljno upozorenje</string>
+    <string name="enable_public_safety_messages_title">Narandžasto upozorenje</string>
+    <string name="public_safety_message">Upozorenje rumunske vlade: narandžasto upozorenje</string>
+</resources>

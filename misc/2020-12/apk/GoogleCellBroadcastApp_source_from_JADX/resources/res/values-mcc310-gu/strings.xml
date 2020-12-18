@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">તમને પ્રાપ્ત થયેલા બધા અલર્ટ ડિલીટ કરીએ?</string>
+    <string name="confirm_delete_broadcast">આ અલર્ટને ડિલીટ કરીએ?</string>
+    <string name="enable_cmas_test_alerts_title">અન્ય પરીક્ષણો</string>
+    <string name="menu_delete">અલર્ટને ડિલીટ કરો</string>
+    <string name="menu_delete_all">બધા અલર્ટ ડિલીટ કરો</string>
+    <string name="receive_cmas_in_second_language_summary">શક્ય હોય ત્યારે ઇમર્જન્સીના અલર્ટ સ્પેનિશમાં મેળવો</string>
+    <string name="receive_cmas_in_second_language_title">સ્પેનિશ</string>
+</resources>

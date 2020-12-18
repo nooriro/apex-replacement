@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">希臘警示：安珀警報</string>
+    <string name="cmas_extreme_alert">希臘警示：極嚴重警示</string>
+    <string name="cmas_extreme_immediate_likely_alert">希臘警示：極嚴重警示</string>
+    <string name="cmas_extreme_immediate_observed_alert">希臘警示：極嚴重警示</string>
+    <string name="cmas_presidential_level_alert">希臘警示：國家級警示</string>
+    <string name="cmas_severe_alert">希臘警示：嚴重警示</string>
+</resources>

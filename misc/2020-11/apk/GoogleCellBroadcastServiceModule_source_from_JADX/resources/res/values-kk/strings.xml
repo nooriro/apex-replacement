@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Сабыр сақтап, жақын жерден баспана іздеңіз.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Сабыр сақтап, жақын жерден баспана іздеңіз.</string>
+    <string name="etws_primary_default_message_others">Жергілікті басқару органының хабарландыруы. Толығырақ ақпарат жақында беріледі.</string>
+    <string name="etws_primary_default_message_test">Төтенше хабарлар сынағы</string>
+    <string name="etws_primary_default_message_tsunami">Жағалау аймақтан биіктеу қауіпсіз жерге дереу көшіңіз.</string>
+</resources>

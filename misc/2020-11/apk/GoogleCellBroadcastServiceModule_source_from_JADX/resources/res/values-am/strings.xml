@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">ረጋ ይበሉና በአቅራቢያ ያለ መጠለያ ይፈልጉ።</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">ረጋ ይበሉና በአቅራቢያ ያለ መጠለያ ይፈልጉ።</string>
+    <string name="etws_primary_default_message_others">በአካባቢያዊ መንግሥት ማንቂያ ተሰጥቷል። ተጨማሪ መረጃ በቅርቡ ይመጣል።</string>
+    <string name="etws_primary_default_message_test">የአስቸኳይ አደጋ መልዕክቶች ሙከራ</string>
+    <string name="etws_primary_default_message_tsunami">ወዲያውኑ ከባህር ዳርቻ አካባቢዎች እና የወንዝ ዳርቻ አካባቢዎች ይውጡና እንደ ከፍ ያለ መሬት ያሉ ከአደጋ የተሻለ ደህንነት ወዳቸው ቦታዎች ይሂዱ።</string>
+</resources>

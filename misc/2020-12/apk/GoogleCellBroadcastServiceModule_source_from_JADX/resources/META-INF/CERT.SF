@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: l2Ct3s3l+Jt2RCE60XC3+Inw8J6s/XNDxAHozesc43k=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: qnNTN8ElFHYw4nZPcuq0I993RoEzIAcILjZl+IHd/XQ=
+
+Name: android/util/LocalLog.ReadOnlyLocalLog.uau
+SHA-256-Digest: s17VZ8dAbUoumYgDoKs6kgUQKU5uKLNa9+G2urF5Cqs=
+
+Name: android/util/LocalLog.uau
+SHA-256-Digest: jCzQ6Bh1I5c7NjNw4JHybO+cQdBx6jgaPooycwTJ11Q=
+
+Name: assets/NOTICE.html.gz
+SHA-256-Digest: ct04VFbNEmQmmjy20hDnK6Rn5deNzfesviy+Wkrc6k4=
+
+Name: classes.dex
+SHA-256-Digest: apXX8y3O+gY8NR5NibOQ7x1oTb8oQhbJqAHFCukitMo=
+
+Name: com/android/internal/util/IState.uau
+SHA-256-Digest: sKu+po2rFyvXzZ3Ric3YmnRVH7eX8K62E61cYDZb/f8=
+
+Name: com/android/internal/util/Preconditions.uau
+SHA-256-Digest: wlhuCSuxiVoPfkLYsNzhrazfqLl9AR45S/SRm9QB9qU=
+
+Name: com/android/internal/util/State.uau
+SHA-256-Digest: IWKsuIjg4nGmlVvQmsm0qP28wISTvCj+gxVX0UaYk7c=
+
+Name: com/android/internal/util/StateMachine.uau
+SHA-256-Digest: dZ9+AwTbVs1pwfcYT2hRIgjfanpFjrM6pqdgqIQM794=
+
+Name: resources.arsc
+SHA-256-Digest: Gc13g8RBUTyNKZDNRowgY8BdfIX6kMEisnHPFA2tNwk=
+
+Name: stamp-cert-sha256
+SHA-256-Digest: L0p4Bm/NGffFWX26fUKi8jlq3aKsfwyEBtSavY6F0c0=
+
