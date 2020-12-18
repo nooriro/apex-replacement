@@ -16,6 +16,10 @@ With this module installed, you will receive public safety messages as quietly a
 
 Install this module on Magisk.
 
+## Screenshot
+
+<img src="https://github.com/nooriro/apex-replacement/raw/431489776b1a4e90864260d4cc9aaee00ed90f88/misc/screenshots/pixel-dec-2020-cellbroadcast-450-fix-3-201218.jpg" alt="pixel-dec-2020-cellbroadcast-450-fix-3-201218.jpg" width="672"/>
+
 ## Changelog
 
 #### v1.00-20201218
