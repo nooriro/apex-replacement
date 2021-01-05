@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Эс алып, жакын жерден калканч издеңиз.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Эс алып, жакын жерден калканч издеңиз.</string>
+    <string name="etws_primary_default_message_others">Жергиликтүү бийлик органдарынын шашылыш билдирүүлөрү. Жакында кеңири маалымат берилет.</string>
+    <string name="etws_primary_default_message_test">Кырсыктаганда жөнөтүлүүчү билдирүүлөрдү сыноо</string>
+    <string name="etws_primary_default_message_tsunami">Деңиз жана дарыя жээгинде жайгашкан аймактардан бийик тоо сыяктуу коопсуз жерге тезинен чыгып кетиңиз.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Opozorilo za vajo</string>
+    <string name="cmas_presidential_level_alert">Opozorilo v sili</string>
+    <string name="pws_other_message_identifiers">Opozorilno obvestilo</string>
+</resources>

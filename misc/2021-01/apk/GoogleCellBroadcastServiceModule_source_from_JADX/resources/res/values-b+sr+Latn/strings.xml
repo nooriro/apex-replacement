@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Ostanite mirni i potražite sklonište u okolini.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Ostanite mirni i potražite sklonište u okolini.</string>
+    <string name="etws_primary_default_message_others">Lokalna vlada je izdala obaveštenje. Uskoro će biti još informacija.</string>
+    <string name="etws_primary_default_message_test">Testiranje poruka u hitnim slučajevima</string>
+    <string name="etws_primary_default_message_tsunami">Odmah se sklonite iz priobalnih regiona i oblasti pored reka na neko bezbednije mesto, na primer, na neko uzvišenje.</string>
+</resources>

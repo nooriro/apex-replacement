@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Barcha qabul qilingan ogohlantirishlar oʻchirilsinmi?</string>
+    <string name="confirm_delete_broadcast">Bu bildirishnoma oʻchirilsinmi?</string>
+    <string name="enable_cmas_test_alerts_title">Boshqa sinov xabarlar</string>
+    <string name="menu_delete">Bildirishnoma oʻchirilsinmi</string>
+    <string name="menu_delete_all">Bildirishnomalarni oʻchirish</string>
+    <string name="receive_cmas_in_second_language_summary">Imkoni boʻlsa, favqulodda ogohlantirishlar Ispan tilida kelsin</string>
+    <string name="receive_cmas_in_second_language_title">Ispan</string>
+</resources>

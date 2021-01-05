@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Қауіпсіздік жөнінде хабарлау жүйесінің сынақ хабарларын алу</string>
+    <string name="enable_cmas_test_alerts_title">Ай сайынғы міндетті сынақ</string>
+    <string name="public_safety_message">Ескерту хабары</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">వ్యాయామం</string>
+    <string name="cmas_extreme_alert">అత్యవసర అలర్ట్</string>
+    <string name="cmas_extreme_immediate_likely_alert">అత్యవసర అలర్ట్</string>
+    <string name="cmas_extreme_immediate_observed_alert">అత్యవసర అలర్ట్</string>
+    <string name="cmas_presidential_level_alert">జాతీయ అత్యవసర అలర్ట్</string>
+    <string name="cmas_required_monthly_test">పరీక్ష అలర్ట్</string>
+    <string name="cmas_severe_alert">అత్యవసర అలర్ట్</string>
+    <string name="enable_cmas_test_alerts_title">పరీక్ష అలర్ట్‌లు</string>
+    <string name="enable_emergency_alerts_message_title">హెచ్చరిక అలర్ట్‌లు</string>
+    <string name="enable_public_safety_messages_title">పబ్లిక్ భద్రత అలర్ట్‌లు</string>
+    <string name="public_safety_message">పబ్లిక్ భద్రత అలర్ట్</string>
+    <string name="pws_other_message_identifiers">హెచ్చరిక అలర్ట్</string>
+    <string name="state_local_test_alert">పరీక్ష అలర్ట్</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Du erhältst alle wichtigen Nachrichten, ungeachtet deiner Einstellungen</string>
+    <string name="enable_cmas_test_alerts_title">Testnachrichten</string>
+</resources>

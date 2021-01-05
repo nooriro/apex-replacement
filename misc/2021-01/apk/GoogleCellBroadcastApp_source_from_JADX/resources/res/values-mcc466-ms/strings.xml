@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Terima mesej ujian untuk sistem makluman keselamatan</string>
+    <string name="enable_cmas_test_alerts_title">Ujian bulanan diperlukan</string>
+    <string name="public_safety_message">Mesej makluman</string>
+</resources>

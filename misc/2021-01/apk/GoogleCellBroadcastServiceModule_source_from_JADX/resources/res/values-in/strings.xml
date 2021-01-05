@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Tetap tenang dan cari tempat berlindung terdekat.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Tetap tenang dan cari tempat berlindung terdekat.</string>
+    <string name="etws_primary_default_message_others">Peringatan dikeluarkan oleh pemerintah lokal. Informasi selengkapnya akan segera datang.</string>
+    <string name="etws_primary_default_message_test">Tes pesan darurat</string>
+    <string name="etws_primary_default_message_tsunami">Evakuasi segera dari daerah pesisir dan area tepi sungai ke tempat yang lebih aman seperti dataran tinggi.</string>
+</resources>

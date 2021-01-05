@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cmas_presidential_alerts_channels_range_strings">
+        <item>0x1112:rat=gsm, emergency=true, override_dnd=true</item>
+        <item>0x111F:rat=gsm, emergency=true, override_dnd=true</item>
+    </array>
+</resources>

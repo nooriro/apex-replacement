@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enable_alert_handling_during_call">true</bool>
+    <bool name="show_presidential_alerts_settings">true</bool>
+</resources>

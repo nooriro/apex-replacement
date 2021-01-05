@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ବ୍ୟାୟାମ</string>
+    <string name="cmas_extreme_alert">ଜରୁରୀକାଳୀନ ଆଲର୍ଟ</string>
+    <string name="cmas_extreme_immediate_likely_alert">ଜରୁରୀକାଳୀନ ଆଲର୍ଟ</string>
+    <string name="cmas_extreme_immediate_observed_alert">ଜରୁରୀକାଳୀନ ଆଲର୍ଟ</string>
+    <string name="cmas_presidential_level_alert">ଜାତୀୟ ଜରୁରୀକାଳୀନ ଆଲର୍ଟ</string>
+    <string name="cmas_required_monthly_test">ଟେଷ୍ଟ ଆଲର୍ଟ</string>
+    <string name="cmas_severe_alert">ଜରୁରୀକାଳୀନ ଆଲର୍ଟ</string>
+    <string name="enable_cmas_test_alerts_title">ଟେଷ୍ଟ ଆଲର୍ଟ</string>
+    <string name="enable_emergency_alerts_message_title">ଚେତାବନୀ ଆଲର୍ଟ</string>
+    <string name="enable_public_safety_messages_title">ଜନସାଧାରଣଙ୍କ ପାଇଁ ସୁରକ୍ଷା ଆଲର୍ଟ</string>
+    <string name="public_safety_message">ଜନସାଧାରଣଙ୍କ ପାଇଁ ସୁରକ୍ଷା ଆଲର୍ଟ</string>
+    <string name="pws_other_message_identifiers">ଚେତାବନୀ ଆଲର୍ଟ</string>
+    <string name="state_local_test_alert">ଟେଷ୍ଟ ଆଲର୍ଟ</string>
+</resources>

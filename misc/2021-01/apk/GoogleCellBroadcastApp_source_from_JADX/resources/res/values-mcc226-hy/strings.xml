@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">RO-Alert՝ ուսումնավարժական ահազանգ</string>
+    <string name="cmas_extreme_alert">RO-Alert՝ արտակարգ իրավիճակի ահազանգ</string>
+    <string name="cmas_extreme_immediate_likely_alert">RO-Alert՝ արտակարգ իրավիճակի ահազանգ</string>
+    <string name="cmas_extreme_immediate_observed_alert">RO-Alert՝ արտակարգ իրավիճակի ահազանգ</string>
+    <string name="cmas_presidential_level_alert">RO-Alert՝ նախագահական ծանուցում</string>
+    <string name="cmas_severe_alert">RO-Alert՝ հրատապ ահազանգ</string>
+    <string name="enable_public_safety_messages_title">Նարնջագույն ահազանգ</string>
+    <string name="public_safety_message">RO-Alert՝ նարնջագույն ահազանգ</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">ການເຕືອນ GR: ການເຕືອນການລັກພາຕົວເດັກນ້ອຍ</string>
+    <string name="cmas_extreme_alert">ການເຕືອນ GR: ການເຕືອນລະດັບສູງສຸດ</string>
+    <string name="cmas_extreme_immediate_likely_alert">ການເຕືອນ GR: ການເຕືອນລະດັບສູງສຸດ</string>
+    <string name="cmas_extreme_immediate_observed_alert">ການເຕືອນ GR: ການເຕືອນລະດັບສູງສຸດ</string>
+    <string name="cmas_presidential_level_alert">ການເຕືອນ GR: ການເຕືອນລະດັບປະທານາທິບໍດີ</string>
+    <string name="cmas_severe_alert">ການເຕືອນ GR: ການເຕືອນລະດັບຮ້າຍແຮງ</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ව්‍යායාමය</string>
+    <string name="cmas_extreme_alert">හදිසි අවස්ථා ඇඟවීම</string>
+    <string name="cmas_extreme_immediate_likely_alert">හදිසි අවස්ථා ඇඟවීම</string>
+    <string name="cmas_extreme_immediate_observed_alert">හදිසි අවස්ථා ඇඟවීම</string>
+    <string name="cmas_presidential_level_alert">ජාතික හදිසි අවස්ථා ඇඟවීම</string>
+    <string name="cmas_required_monthly_test">පරීක්ෂණ ඇඟවීම</string>
+    <string name="cmas_severe_alert">හදිසි අවස්ථා ඇඟවීම</string>
+    <string name="enable_cmas_test_alerts_title">පරීක්ෂණ ඇඟවීම්</string>
+    <string name="enable_emergency_alerts_message_title">අනතුරු ඇඟවීම්</string>
+    <string name="enable_public_safety_messages_title">පොදු ආරක්ෂාව පිළිබඳ ඇඟවීම්</string>
+    <string name="public_safety_message">පොදු ආරක්ෂාව පිළිබඳ ඇඟවීම</string>
+    <string name="pws_other_message_identifiers">අනතුරු ඇඟවීම</string>
+    <string name="state_local_test_alert">පරීක්ෂණ ඇඟවීම</string>
+</resources>

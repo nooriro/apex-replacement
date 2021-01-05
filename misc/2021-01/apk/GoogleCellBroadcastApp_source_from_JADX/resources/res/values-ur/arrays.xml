@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="alert_reminder_interval_entries">
+        <item>ایک بار</item>
+        <item>ہر 2 منٹ بعد</item>
+        <item>ہر 5 منٹ میں</item>
+        <item>ہر 15 منٹ بعد</item>
+        <item>کبھی نہیں</item>
+    </array>
+</resources>

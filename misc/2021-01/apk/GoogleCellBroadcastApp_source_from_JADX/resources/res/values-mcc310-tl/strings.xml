@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">I-delete ang lahat ng natanggap na alerto?</string>
+    <string name="confirm_delete_broadcast">I-delete ang alertong ito?</string>
+    <string name="enable_cmas_test_alerts_title">Iba pang pagsubok</string>
+    <string name="menu_delete">I-delete ang alerto</string>
+    <string name="menu_delete_all">I-delete ang mga alerto</string>
+    <string name="receive_cmas_in_second_language_summary">Makatanggap ng mga alerto sa emergency na nasa wikang Spanish kapag posible</string>
+    <string name="receive_cmas_in_second_language_title">Spanish</string>
+</resources>

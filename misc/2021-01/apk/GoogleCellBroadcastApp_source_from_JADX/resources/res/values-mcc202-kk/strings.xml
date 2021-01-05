@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">Грекия: қою сары хабарландыру</string>
+    <string name="cmas_extreme_alert">Грекия: төтенше жағдай хабарландыруы</string>
+    <string name="cmas_extreme_immediate_likely_alert">Грекия: төтенше жағдай хабарландыруы</string>
+    <string name="cmas_extreme_immediate_observed_alert">Грекия: төтенше жағдай хабарландыруы</string>
+    <string name="cmas_presidential_level_alert">Грекия: президент хабарландыруы</string>
+    <string name="cmas_severe_alert">Грекия: маңызды хабарландыру</string>
+</resources>

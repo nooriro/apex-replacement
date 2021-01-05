@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Saglabājiet mieru un meklējiet tuvumā patvērumu.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Saglabājiet mieru un meklējiet tuvumā patvērumu.</string>
+    <string name="etws_primary_default_message_others">Brīdinājumu izsludināja vietējā valdība. Drīzumā būs pieejama plašāka informācija.</string>
+    <string name="etws_primary_default_message_test">Ārkārtas ziņojuma pārbaude</string>
+    <string name="etws_primary_default_message_tsunami">Nekavējoties pametiet piekrastes un upju zonas un dodieties uz drošākām (piemēram, augstākām) vietām.</string>
+</resources>

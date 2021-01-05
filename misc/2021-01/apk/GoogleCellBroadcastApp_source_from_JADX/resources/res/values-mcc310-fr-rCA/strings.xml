@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Supprimer toutes les alertes reçues?</string>
+    <string name="confirm_delete_broadcast">Supprimer cette alerte?</string>
+    <string name="enable_cmas_test_alerts_title">Autres tests</string>
+    <string name="menu_delete">Supprimer l\'alerte</string>
+    <string name="menu_delete_all">Supprimer les alertes</string>
+    <string name="receive_cmas_in_second_language_summary">Recevoir des alertes d\'urgence en espagnol lorsque c\'est possible</string>
+    <string name="receive_cmas_in_second_language_title">Espagnol</string>
+</resources>

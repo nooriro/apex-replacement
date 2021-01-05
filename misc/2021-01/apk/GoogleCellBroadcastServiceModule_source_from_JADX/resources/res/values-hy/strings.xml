@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Պահպանեք հանգստությունը և մոտակայքում ապաստարան փնտրեք:</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Պահպանեք հանգստությունը և մոտակայքում ապաստարան փնտրեք:</string>
+    <string name="etws_primary_default_message_others">Զգուշացում տեղական կառավարման մարմնի կողմից։ Լրացուցիչ տեղեկությունները հասանելի կլինեն շուտով։</string>
+    <string name="etws_primary_default_message_test">Արտակարգ իրավիճակների հաղորդագրությունների թեստ</string>
+    <string name="etws_primary_default_message_tsunami">Ափամերձ և գետափնյա տարածքներից անմիջապես էվակուացվեք դեպի ավելի ապահով վայրեր (օրինակ՝ բարձրադիր գոտիներ):</string>
+</resources>

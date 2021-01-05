@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">యూజర్ సెట్టింగ్‌లతో సంబంధం లేకుండా ముఖ్యమైన మెసేజ్‌లు రావడానికి అవకాశం ఉంది</string>
+    <string name="enable_cmas_test_alerts_title">టెస్ట్ మెసేజ్‌లు</string>
+</resources>

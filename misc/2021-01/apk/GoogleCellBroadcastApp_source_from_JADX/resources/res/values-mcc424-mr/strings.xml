@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">एक्ससाइझ</string>
+    <string name="cmas_extreme_alert">आणीबाणीची सूचना</string>
+    <string name="cmas_extreme_immediate_likely_alert">आणीबाणीची सूचना</string>
+    <string name="cmas_extreme_immediate_observed_alert">आणीबाणीची सूचना</string>
+    <string name="cmas_presidential_level_alert">राष्ट्रीय आणीबाणीची सूचना</string>
+    <string name="cmas_required_monthly_test">चाचणीची सूचना</string>
+    <string name="cmas_severe_alert">आणीबाणीची सूचना</string>
+    <string name="enable_cmas_test_alerts_title">चाचणीच्या सूचना</string>
+    <string name="enable_emergency_alerts_message_title">चेतावणीच्या सूचना</string>
+    <string name="enable_public_safety_messages_title">सार्वजनिक सुरक्षिततेच्या सूचना</string>
+    <string name="public_safety_message">सार्वजनिक सुरक्षिततेची सूचना</string>
+    <string name="pws_other_message_identifiers">चेतावणीची सूचना</string>
+    <string name="state_local_test_alert">चाचणीची सूचना</string>
+</resources>

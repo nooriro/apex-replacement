@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Жаттығу</string>
+    <string name="cmas_extreme_alert">Төтенше жағдай дабылы</string>
+    <string name="cmas_extreme_immediate_likely_alert">Төтенше жағдай дабылы</string>
+    <string name="cmas_extreme_immediate_observed_alert">Төтенше жағдай дабылы</string>
+    <string name="cmas_presidential_level_alert">Елдегі төтенше жағдай туралы ескерту</string>
+    <string name="cmas_required_monthly_test">Сынақ ескерту</string>
+    <string name="cmas_severe_alert">Төтенше жағдай дабылы</string>
+    <string name="enable_cmas_test_alerts_title">Сынақ ескертулер</string>
+    <string name="enable_emergency_alerts_message_title">Ескертулер</string>
+    <string name="enable_public_safety_messages_title">Жалпы қауіпсіздік ескертулері</string>
+    <string name="public_safety_message">Жалпы қауіпсіздік ескертуі</string>
+    <string name="pws_other_message_identifiers">Ескерту</string>
+    <string name="state_local_test_alert">Сынақ ескерту</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">ሁሉም የተቀበሏቸው ማንቂያዎች ይሰረዙ?</string>
+    <string name="confirm_delete_broadcast">ይህ ማንቂያ ይሰረዝ?</string>
+    <string name="enable_cmas_test_alerts_title">ሌሎች ሙከራዎች</string>
+    <string name="menu_delete">ማንቂያን ሰርዝ</string>
+    <string name="menu_delete_all">ማንቂያዎችን ሰርዝ</string>
+    <string name="receive_cmas_in_second_language_summary">ሲቻል የድንገተኛ አደጋ ማንቂያዎች በስፓኒሽ ይቀበሉ</string>
+    <string name="receive_cmas_in_second_language_title">ስፓኒሽ</string>
+</resources>

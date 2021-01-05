@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="alert_reminder_interval_entries">
+        <item>Еднаш</item>
+        <item>На 2 минути</item>
+        <item>На 5 минути</item>
+        <item>На 15 минути</item>
+        <item>Никогаш</item>
+    </array>
+</resources>

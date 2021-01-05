@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="duplicate_compare_body">true</bool>
+    <bool name="mute_by_physical_button">false</bool>
+    <bool name="non_swipeable_notification">true</bool>
+    <bool name="override_dnd_default">true</bool>
+    <bool name="show_amber_alert_settings">false</bool>
+    <bool name="show_extreme_alert_settings">false</bool>
+    <bool name="show_override_dnd_settings">true</bool>
+    <bool name="show_severe_alert_settings">false</bool>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">RO-અલર્ટ: કસરત સંબંધિત અલર્ટ</string>
+    <string name="cmas_extreme_alert">RO-અલર્ટ: અત્યંત ગંભીર અલર્ટ</string>
+    <string name="cmas_extreme_immediate_likely_alert">RO-અલર્ટ: અત્યંત ગંભીર અલર્ટ</string>
+    <string name="cmas_extreme_immediate_observed_alert">RO-અલર્ટ: અત્યંત ગંભીર અલર્ટ</string>
+    <string name="cmas_presidential_level_alert">RO-અલર્ટ: અધ્યક્ષ સંબંધિત અલર્ટ</string>
+    <string name="cmas_severe_alert">RO-અલર્ટ: ગંભીર અલર્ટ</string>
+    <string name="enable_public_safety_messages_title">ઑરેન્જ અલર્ટ</string>
+    <string name="public_safety_message">RO-અલર્ટ: ઑરેન્જ અલર્ટ</string>
+</resources>

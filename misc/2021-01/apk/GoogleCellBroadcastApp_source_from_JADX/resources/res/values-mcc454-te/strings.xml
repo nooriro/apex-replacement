@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_extreme_alert">అత్యవసర అలర్ట్</string>
+    <string name="cmas_presidential_level_alert">అత్యంత ఎమర్జెన్సీ అలర్ట్</string>
+    <string name="cmas_required_monthly_test">పరీక్ష మెసేజ్</string>
+</resources>

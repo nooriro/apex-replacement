@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Ariketa fisikoa</string>
+    <string name="cmas_extreme_alert">Larrialdi-alerta</string>
+    <string name="cmas_extreme_immediate_likely_alert">Larrialdi-alerta</string>
+    <string name="cmas_extreme_immediate_observed_alert">Larrialdi-alerta</string>
+    <string name="cmas_presidential_level_alert">Larrialdi-alerta nazionala</string>
+    <string name="cmas_required_monthly_test">Testu-mezu bidezko alerta</string>
+    <string name="cmas_severe_alert">Larrialdi-alerta</string>
+    <string name="enable_cmas_test_alerts_title">Testu-mezu bidezko alertak</string>
+    <string name="enable_emergency_alerts_message_title">Abisuen alertak</string>
+    <string name="enable_public_safety_messages_title">Segurtasun publikoari buruzko alertak</string>
+    <string name="public_safety_message">Segurtasun publikoari buruzko alerta</string>
+    <string name="pws_other_message_identifiers">Abisuen alerta</string>
+    <string name="state_local_test_alert">Testu-mezu bidezko alerta</string>
+</resources>

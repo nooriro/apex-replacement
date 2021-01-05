@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Бидете смирени и побарајте засолниште во близина.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Бидете смирени и побарајте засолниште во близина.</string>
+    <string name="etws_primary_default_message_others">Предупредување издадено од локалните органи. Повеќе информации наскоро.</string>
+    <string name="etws_primary_default_message_test">Тестирање пораки за итни случаи</string>
+    <string name="etws_primary_default_message_tsunami">Итна евакуација од крајбрежните региони и областите покрај реки на побезбедно место, како на пр., терени на повисока надморска височина.</string>
+</resources>

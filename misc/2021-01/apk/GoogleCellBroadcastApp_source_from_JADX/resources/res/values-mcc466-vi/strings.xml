@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Nhận thông báo kiểm tra của hệ thống cảnh báo an toàn</string>
+    <string name="enable_cmas_test_alerts_title">Kiểm tra hàng tháng bắt buộc</string>
+    <string name="public_safety_message">Thông báo cảnh báo</string>
+</resources>

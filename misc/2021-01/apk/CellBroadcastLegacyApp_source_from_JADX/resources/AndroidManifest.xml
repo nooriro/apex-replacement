@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="300000000" android:versionName="R-initial" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" package="com.android.cellbroadcastreceiver" platformBuildVersionCode="30" platformBuildVersionName="11">
+    <uses-sdk android:minSdkVersion="30" android:targetSdkVersion="30"/>
+    <application android:extractNativeLibs="true" android:defaultToDeviceProtectedStorage="true" android:directBootAware="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:forceQueryable="true">
+        <provider android:name="com.android.cellbroadcastreceiver.LegacyCellBroadcastContentProvider" android:readPermission="android.permission.READ_CELL_BROADCASTS" android:exported="true" android:authorities="cellbroadcast-legacy"/>
+    </application>
+</manifest>

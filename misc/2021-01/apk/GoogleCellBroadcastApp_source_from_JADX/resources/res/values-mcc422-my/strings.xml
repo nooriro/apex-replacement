@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">သတိပေးချက် လေ့ကျင့်မှု</string>
+    <string name="cmas_presidential_level_alert">အရေးပေါ် သတိပေးချက်များ</string>
+    <string name="pws_other_message_identifiers">သတိပေး အချက်ပြမှု</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ਕਸਰਤਾਂ</string>
+    <string name="cmas_extreme_alert">ਗੰਭੀਰ ਸੰਕਟਕਾਲੀਨ ਚਿਤਾਵਨੀ ਸੁਚੇਤਨਾਵਾਂ</string>
+    <string name="cmas_presidential_level_alert">ਰਾਸ਼ਟਰੀ ਚਿਤਾਵਨੀ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_required_monthly_test">ਜਾਂਚ ਸੁਚੇਤਨਾਵਾਂ</string>
+    <string name="cmas_severe_alert">ਸੰਕਟਕਾਲੀਨ ਚਿਤਾਵਨੀ ਸੁਚੇਤਨਾਵਾਂ</string>
+    <string name="enable_emergency_alerts_message_summary">ਜਾਨ ਜਾਂ ਮਾਲ ਦੀ ਸੁਰੱਖਿਆ ਕਰ ਸਕਣ ਵਾਲੀਆਂ ਸਿਫ਼ਾਰਸ਼ੀ ਕਾਰਵਾਈਆਂ</string>
+    <string name="enable_emergency_alerts_message_title">ਸੁਚੇਤਨਾਵਾਂ</string>
+    <string name="pws_other_message_identifiers">ਸੁਚੇਤਨਾਵਾਂ</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Įspėjimas apie pratybas</string>
+    <string name="cmas_presidential_level_alert">Nepaprastasis įspėjimas</string>
+    <string name="pws_other_message_identifiers">Įspėjimas</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">സുരക്ഷാ മുന്നറിയിപ്പ് സിസ്റ്റത്തിനുള്ള പരീക്ഷണ സന്ദേശങ്ങൾ സ്വീകരിക്കുക</string>
+    <string name="enable_cmas_test_alerts_title">പ്രതിമാസ പരിശോധന ആവശ്യമാണ്</string>
+    <string name="public_safety_message">മുന്നറിയിപ്പ് സന്ദേശം</string>
+</resources>

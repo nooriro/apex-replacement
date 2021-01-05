@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">GR-सूचना: अँबर सूचना</string>
+    <string name="cmas_extreme_alert">GR-सूचना: अतिदक्षतेची सूचना</string>
+    <string name="cmas_extreme_immediate_likely_alert">GR-सूचना: अतिदक्षतेची सूचना</string>
+    <string name="cmas_extreme_immediate_observed_alert">GR-सूचना: अतिदक्षतेची सूचना</string>
+    <string name="cmas_presidential_level_alert">GR-सूचना: राष्ट्रपतींनी दिलेला इशारा</string>
+    <string name="cmas_severe_alert">GR-सूचना: दक्षतेची सूचना</string>
+</resources>

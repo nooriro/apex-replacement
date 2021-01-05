@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">Kreeka märguanne: kollane hoiatus</string>
+    <string name="cmas_extreme_alert">Kreeka märguanne: äärmusliku olukorra hoiatus</string>
+    <string name="cmas_extreme_immediate_likely_alert">Kreeka märguanne: äärmusliku olukorra hoiatus</string>
+    <string name="cmas_extreme_immediate_observed_alert">Kreeka märguanne: äärmusliku olukorra hoiatus</string>
+    <string name="cmas_presidential_level_alert">Kreeka märguanne: presidendi edastatud hoiatus</string>
+    <string name="cmas_severe_alert">Kreeka märguanne: tõsise ohu hoiatus</string>
+</resources>

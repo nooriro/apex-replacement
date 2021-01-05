@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">‏RO-الرٹ: ورزش الرٹ</string>
+    <string name="cmas_extreme_alert">‏RO-الرٹ: انتہائی الرٹ</string>
+    <string name="cmas_extreme_immediate_likely_alert">‏RO-الرٹ: انتہائی الرٹ</string>
+    <string name="cmas_extreme_immediate_observed_alert">‏RO-الرٹ: انتہائی الرٹ</string>
+    <string name="cmas_presidential_level_alert">‏RO-الرٹ: صدارتی الرٹ</string>
+    <string name="cmas_severe_alert">‏RO-الرٹ: شدید الرٹ</string>
+    <string name="enable_public_safety_messages_title">نارنجی الرٹ</string>
+    <string name="public_safety_message">‏RO-الرٹ: نارنجی الرٹ</string>
+</resources>

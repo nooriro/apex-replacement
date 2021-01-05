@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_extreme_alert">आणीबाणीच्या सूचना</string>
+    <string name="cmas_presidential_level_alert">आणीबाणीचा अतिविषम इशारा</string>
+    <string name="cmas_required_monthly_test">चाचणी मेसेज</string>
+</resources>

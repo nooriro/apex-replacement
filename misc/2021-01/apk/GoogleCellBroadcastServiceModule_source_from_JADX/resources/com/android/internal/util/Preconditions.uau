@@ -1,0 +1,8 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/internal/util/Preconditions;->checkArgument(Z)V,frameworks/base/core/java/com/android/internal/util/Preconditions.java,34,5,34,25,
+Lcom/android/internal/util/Preconditions;->checkArgument(ZLjava/lang/Object;)V,frameworks/base/core/java/com/android/internal/util/Preconditions.java,49,5,49,25,
+Lcom/android/internal/util/Preconditions;->checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;,frameworks/base/core/java/com/android/internal/util/Preconditions.java,134,5,134,25,
+Lcom/android/internal/util/Preconditions;->checkNotNull(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;,frameworks/base/core/java/com/android/internal/util/Preconditions.java,154,5,154,25,
+Lcom/android/internal/util/Preconditions;->checkState(ZLjava/lang/String;)V,frameworks/base/core/java/com/android/internal/util/Preconditions.java,170,5,170,25,
+Lcom/android/internal/util/Preconditions;->checkState(Z)V,frameworks/base/core/java/com/android/internal/util/Preconditions.java,184,5,184,25,
+Lcom/android/internal/util/Preconditions;->checkArgumentInRange(IIILjava/lang/String;)I,frameworks/base/core/java/com/android/internal/util/Preconditions.java,382,5,382,25,

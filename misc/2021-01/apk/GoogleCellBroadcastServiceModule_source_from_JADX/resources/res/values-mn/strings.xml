@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Тайван байж, ойролцоох нуугдах газар хайна уу.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Тайван байж, ойролцоох нуугдах газар хайна уу.</string>
+    <string name="etws_primary_default_message_others">Сэрэмжлүүлгийг орон нутгийн засгийн газраас гаргасан. Тун удахгүй дэлгэрэнгүй мэдээлэл гарна.</string>
+    <string name="etws_primary_default_message_test">Онцгой байдлын зурвасын тест</string>
+    <string name="etws_primary_default_message_tsunami">Эргийн бүс, голын эргийн бүсээс өндөрлөг газар зэрэг аюулгүй газар руу нэн даруй шилжинэ үү.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">訓練用アラート</string>
+    <string name="cmas_presidential_level_alert">緊急速報メール</string>
+    <string name="pws_other_message_identifiers">警告アラート</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">RO-সতর্কবার্তা: অনুশীলন সতর্কবার্তা</string>
+    <string name="cmas_extreme_alert">RO-সতর্কবার্তা: অতি বেছি জৰুৰীকালীন সতর্কবার্তা</string>
+    <string name="cmas_extreme_immediate_likely_alert">RO-সতর্কবার্তা: অতি বেছি জৰুৰীকালীন সতর্কবার্তা</string>
+    <string name="cmas_extreme_immediate_observed_alert">RO-সতর্কবার্তা: অতি বেছি জৰুৰীকালীন সতর্কবার্তা</string>
+    <string name="cmas_presidential_level_alert">RO-সতর্কবার্তা: ৰাষ্ট্ৰপতিয়ে জাৰি কৰা সতৰ্কবার্তা</string>
+    <string name="cmas_severe_alert">RO-সতর্কবার্তা: গুৰুতৰ সতর্কবার্তা</string>
+    <string name="enable_public_safety_messages_title">কমলা ৰঙৰ সতর্কবার্তা</string>
+    <string name="public_safety_message">RO-সতর্কবার্তা: কমলা ৰঙৰ সতর্কবার্তা</string>
+</resources>

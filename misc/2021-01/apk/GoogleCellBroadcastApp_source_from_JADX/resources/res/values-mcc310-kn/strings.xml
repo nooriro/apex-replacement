@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">ಸ್ವೀಕರಿಸಿದ ಎಲ್ಲಾ ಅಲರ್ಟ್‌ಗಳನ್ನು ಅಳಿಸುವುದೇ?</string>
+    <string name="confirm_delete_broadcast">ಈ ಅಲರ್ಟ್ ಅನ್ನು ಅಳಿಸುವುದೇ?</string>
+    <string name="enable_cmas_test_alerts_title">ಇತರ ಪರೀಕ್ಷೆಗಳು</string>
+    <string name="menu_delete">ಅಲರ್ಟ್ ಅನ್ನು ಅಳಿಸಿ</string>
+    <string name="menu_delete_all">ಅಲರ್ಟ್‌ಗಳನ್ನು ಅಳಿಸಿ</string>
+    <string name="receive_cmas_in_second_language_summary">ಸಾಧ್ಯವಾದಾಗ ಸ್ಪ್ಯಾನಿಶ್ ಭಾಷೆಯಲ್ಲಿ ತುರ್ತು ಎಚ್ಚರಿಕೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ</string>
+    <string name="receive_cmas_in_second_language_title">ಸ್ಪ್ಯಾನಿಶ್</string>
+</resources>

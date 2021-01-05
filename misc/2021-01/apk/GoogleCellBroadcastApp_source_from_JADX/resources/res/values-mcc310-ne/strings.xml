@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">प्राप्त गरिएका सबै अलर्टहरू मेट्ने हो?</string>
+    <string name="confirm_delete_broadcast">यो अलर्ट मेटाउने हो?</string>
+    <string name="enable_cmas_test_alerts_title">अन्य परीक्षणहरू</string>
+    <string name="menu_delete">अलर्ट मेटाउनुहोस्</string>
+    <string name="menu_delete_all">अलर्टहरू मेटाउनुहोस्</string>
+    <string name="receive_cmas_in_second_language_summary">सम्भव हुँदा आपत्कालीन अलर्टहरू स्पेनी भाषामा प्राप्त गर्नुहोस्</string>
+    <string name="receive_cmas_in_second_language_title">स्पेनी</string>
+</resources>

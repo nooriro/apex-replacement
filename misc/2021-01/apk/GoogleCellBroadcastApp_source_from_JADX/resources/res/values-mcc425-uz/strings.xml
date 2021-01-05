@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">Yordamga muhtojlik xabari</string>
+    <string name="cmas_severe_alert">Ogohlantirish</string>
+    <string name="enable_cmas_amber_alerts_title">Yordamga muhtojlik xabarlari</string>
+    <string name="enable_cmas_severe_threat_alerts_title">Ogohlantirishlar</string>
+    <string name="enable_public_safety_messages_title">Axborot xabarlari</string>
+    <string name="public_safety_message">Axborot xabari</string>
+</resources>

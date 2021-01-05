@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">羅馬尼亞警報：演習警報</string>
+    <string name="cmas_extreme_alert">羅馬尼亞警報：極嚴重警報</string>
+    <string name="cmas_extreme_immediate_likely_alert">羅馬尼亞警報：極嚴重警報</string>
+    <string name="cmas_extreme_immediate_observed_alert">羅馬尼亞警報：極嚴重警報</string>
+    <string name="cmas_presidential_level_alert">羅馬尼亞警報：國家級警報</string>
+    <string name="cmas_severe_alert">羅馬尼亞警報：嚴重警報</string>
+    <string name="enable_public_safety_messages_title">橘色警報</string>
+    <string name="public_safety_message">羅馬尼亞警報：橘色警報</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">RO-ඇඟවීම: ව්‍යායාම ඇඟවීම</string>
+    <string name="cmas_extreme_alert">RO-ඇඟවීම: අතිශය ඇඟවීම</string>
+    <string name="cmas_extreme_immediate_likely_alert">RO-ඇඟවීම: අතිශය ඇඟවීම</string>
+    <string name="cmas_extreme_immediate_observed_alert">RO-ඇඟවීම: අතිශය ඇඟවීම</string>
+    <string name="cmas_presidential_level_alert">RO-ඇඟවීම: ජනාධිපති ඇඟවීම</string>
+    <string name="cmas_severe_alert">RO-ඇඟවීම: ප්‍රචණ්ඩ ඇඟවීම</string>
+    <string name="enable_public_safety_messages_title">තැඹිලි පාට ඇඟවීම</string>
+    <string name="public_safety_message">RO-ඇඟවීම: තැඹිලි පාට ඇඟවීම</string>
+</resources>

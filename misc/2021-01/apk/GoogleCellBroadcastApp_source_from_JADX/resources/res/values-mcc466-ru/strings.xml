@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Получать тестовые оповещения системы CMAS</string>
+    <string name="enable_cmas_test_alerts_title">Обязательное тестовое оповещение раз в месяц</string>
+    <string name="public_safety_message">Оповещение</string>
+</resources>

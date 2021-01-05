@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">ସୁରକ୍ଷା ଆଲର୍ଟ ସିଷ୍ଟମ୍ ପାଇଁ ଟେଷ୍ଟ ମେସେଜ୍‌ଗୁଡ଼ିକ ପାଆନ୍ତୁ</string>
+    <string name="enable_cmas_test_alerts_title">ମାସିକ ଟେଷ୍ଟ ଆବଶ୍ୟକ</string>
+    <string name="public_safety_message">ଆଲର୍ଟ ମେସେଜ୍</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Ez larritu eta bilatu babesleku bat inguruan.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Ez larritu eta bilatu babesleku bat inguruan.</string>
+    <string name="etws_primary_default_message_others">Tokiko gobernuak igorri du alerta. Laster izango dugu informazio gehiago.</string>
+    <string name="etws_primary_default_message_test">Larrialdi-mezuen proba</string>
+    <string name="etws_primary_default_message_tsunami">Ebakuatu kostaldeak eta ibaialdeak berehala eta joan toki seguru batera, adibidez, toki garai batera.</string>
+</resources>

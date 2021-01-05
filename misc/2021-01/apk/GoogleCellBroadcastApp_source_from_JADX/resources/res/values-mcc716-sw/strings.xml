@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Arifa ya dharura: Ujumbe wa Mazoezi/Jaribio</string>
+    <string name="cmas_required_monthly_test">Arifa ya dharura: Ujumbe wa jaribio</string>
+    <string name="enable_public_safety_messages_title">Ujumbe muhimu</string>
+    <string name="public_safety_message">Ujumbe muhimu</string>
+    <string name="pws_other_message_identifiers">Arifa ya dharura: Ujumbe wa jaribio</string>
+</resources>

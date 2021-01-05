@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_extreme_alert">@string/emergency_alert</string>
+    <string name="cmas_extreme_immediate_likely_alert">@string/emergency_alert</string>
+    <string name="cmas_extreme_immediate_observed_alert">@string/emergency_alert</string>
+    <string name="cmas_presidential_level_alert">@string/emergency_alert</string>
+    <string name="cmas_severe_alert">@string/emergency_alert</string>
+    <string name="enable_cmas_presidential_alerts_summary">@string/enable_emergency_alerts_message_summary</string>
+    <string name="enable_cmas_presidential_alerts_title">@string/enable_emergency_alerts_message_title</string>
+</resources>
