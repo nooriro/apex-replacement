@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">ໃຈເຢັນໆ ແລະ ຊອກຫາບ່ອນພັກຢູ່ໃກ້ໆ.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">ໃຈເຢັນໆ ແລະ ຊອກຫາບ່ອນພັກຢູ່ໃກ້ໆ.</string>
+    <string name="etws_primary_default_message_others">ການເຕືອນທີ່ອອກໂດຍລັດຖະບານທ້ອງຖິ່ນ. ຈະມີຂໍ້ມູນເພີ່ມເຕີມໃນໄວໆນີ້.</string>
+    <string name="etws_primary_default_message_test">ທົດສອບຂໍ້ຄວາມສຸກເສີນ</string>
+    <string name="etws_primary_default_message_tsunami">ອົບພະຍົບອອກຈາກເຂດຊາຍຝັ່ງທະເລ ແລະ ບໍລິເວນແມ່ນ້ຳໄປບ່ອນທີ່ປອດໄພກວ່າ ເຊັ່ນ: ບ່ອນສູງ ໂດຍທັນທີ.</string>
+</resources>

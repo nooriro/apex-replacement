@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Arifa ya RO: Arifa ya Mazoezi</string>
+    <string name="cmas_extreme_alert">Arifa ya RO: Arifa ya Hatari Kubwa</string>
+    <string name="cmas_extreme_immediate_likely_alert">Arifa ya RO: Arifa ya Hatari Kubwa</string>
+    <string name="cmas_extreme_immediate_observed_alert">Arifa ya RO: Arifa ya Hatari Kubwa</string>
+    <string name="cmas_presidential_level_alert">Arifa ya RO: Arifa ya Rais</string>
+    <string name="cmas_severe_alert">Arifa ya RO: Arifa ya Hatari Kubwa</string>
+    <string name="enable_public_safety_messages_title">Arifa ya Chungwa</string>
+    <string name="public_safety_message">Arifa ya RO: Arifa ya Chungwa</string>
+</resources>

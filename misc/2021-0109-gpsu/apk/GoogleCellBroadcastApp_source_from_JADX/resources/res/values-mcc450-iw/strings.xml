@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">במהלך אסונות טבע, הטלפון יכול לשלוח התראות. למשל, הוראות לפינוי. השירות נוצר מתוך שיתוף פעולה בין הסוכנות הלאומית לניהול חירום, ספקי רשתות ויצרני מכשירים.\10\10ייתכן שלא יוצגו לך התראות אם יש בעיה במכשיר או בעיות באיכות הרשת.</string>
+    <string name="cmas_presidential_level_alert">התרעה על מקרה חירום קריטי</string>
+</resources>

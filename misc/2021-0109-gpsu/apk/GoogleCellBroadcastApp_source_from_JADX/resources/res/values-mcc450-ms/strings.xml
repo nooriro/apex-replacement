@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Telefon anda boleh menghantar amaran, seperti arahan pemindahan semasa bencana alam berlaku. Perkhidmatan ini merupakan kerjasama antara Agensi Pengurusan Kecemasan Nasional, pembekal rangkaian dan pengilang peranti.\10\10Anda mungkin tidak akan mendapat amaran jika terdapat masalah dengan peranti anda atau jika keadaan rangkaian lemah.</string>
+    <string name="cmas_presidential_level_alert">Amaran kecemasan kritikal</string>
+</resources>

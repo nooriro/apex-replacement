@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_dismiss">மறை</string>
+    <string name="cmas_exercise_alert">அவசரகால எச்சரிக்கை: பயிற்சி/டிரில் மெசேஜ்</string>
+    <string name="cmas_required_monthly_test">அவசரக்கால எச்சரிக்கை: சோதனை மெசேஜ்</string>
+    <string name="enable_public_safety_messages_title">முக்கியத் தகவல்</string>
+    <string name="public_safety_message">முக்கியத் தகவல்</string>
+    <string name="pws_other_message_identifiers">அவசரகால எச்சரிக்கை: சோதனை மெசேஜ்</string>
+</resources>

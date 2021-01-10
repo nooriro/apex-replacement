@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ব্যায়াম সংক্রান্ত বিজ্ঞপ্তি</string>
+    <string name="cmas_presidential_level_alert">জরুরি সতর্কতা</string>
+    <string name="pws_other_message_identifiers">সতর্কতা সংক্রান্ত বিজ্ঞপ্তি</string>
+</resources>

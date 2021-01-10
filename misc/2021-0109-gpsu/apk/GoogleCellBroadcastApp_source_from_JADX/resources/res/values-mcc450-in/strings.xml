@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Ponsel dapat menerima peringatan, seperti petunjuk evakuasi, selama bencana alam. Layanan ini adalah kolaborasi antara National Emergency Management Agency (Badan Nasional Penanggulangan Bencana), penyedia jaringan, dan produsen perangkat.\10\10Anda mungkin tidak akan menerima peringatan jika perangkat bermasalah atau kondisi jaringan buruk.</string>
+    <string name="cmas_presidential_level_alert">Peringatan darurat kritis</string>
+</resources>

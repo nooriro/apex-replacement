@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">ಸಾರ್ವಜನಿಕ ಸಹಾಯಕ ವಿನಂತಿ ಸಂದೇಶ</string>
+    <string name="cmas_severe_alert">ಮುನ್ಸೂಚನೆಯ ಎಚ್ಚರಿಕೆ</string>
+    <string name="enable_cmas_amber_alerts_title">ಸಾರ್ವಜನಿಕ ಸಹಾಯಕ ವಿನಂತಿ ಸಂದೇಶಗಳು</string>
+    <string name="enable_cmas_severe_threat_alerts_title">ಮುನ್ಸೂಚನೆಯ ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="enable_public_safety_messages_title">ಮಾಹಿತಿಯುಕ್ತ ಸಂದೇಶಗಳು</string>
+    <string name="public_safety_message">ಮಾಹಿತಿಯುಕ್ತ ಸಂದೇಶ</string>
+</resources>

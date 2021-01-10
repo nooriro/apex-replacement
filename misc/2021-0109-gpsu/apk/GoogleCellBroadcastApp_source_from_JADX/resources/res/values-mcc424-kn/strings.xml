@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ವ್ಯಾಯಾಮ</string>
+    <string name="cmas_extreme_alert">ತುರ್ತು ಎಚ್ಚರಿಕೆ</string>
+    <string name="cmas_extreme_immediate_likely_alert">ತುರ್ತು ಎಚ್ಚರಿಕೆ</string>
+    <string name="cmas_extreme_immediate_observed_alert">ತುರ್ತು ಎಚ್ಚರಿಕೆ</string>
+    <string name="cmas_presidential_level_alert">ರಾಷ್ಟ್ರೀಯ ತುರ್ತು ಎಚ್ಚರಿಕೆ</string>
+    <string name="cmas_required_monthly_test">ಪರೀಕ್ಷೆ ಎಚ್ಚರಿಕೆ</string>
+    <string name="cmas_severe_alert">ತುರ್ತು ಎಚ್ಚರಿಕೆ</string>
+    <string name="enable_cmas_test_alerts_title">ಪರೀಕ್ಷೆ ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="enable_emergency_alerts_message_title">ಮುನ್ಸೂಚನೆಯ ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="enable_public_safety_messages_title">ಸಾರ್ವಜನಿಕ ಸುರಕ್ಷತೆಯ ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="public_safety_message">ಸಾರ್ವಜನಿಕ ಸುರಕ್ಷತೆಯ ಎಚ್ಚರಿಕೆ</string>
+    <string name="pws_other_message_identifiers">ಮುನ್ಸೂಚನೆಯ ಎಚ್ಚರಿಕೆ</string>
+    <string name="state_local_test_alert">ಪರೀಕ್ಷೆ ಎಚ್ಚರಿಕೆ</string>
+</resources>

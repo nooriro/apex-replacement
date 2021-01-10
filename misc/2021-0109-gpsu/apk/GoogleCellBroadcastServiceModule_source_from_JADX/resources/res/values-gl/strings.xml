@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Mantén a calma e busca refuxio cerca.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Mantén a calma e busca refuxio cerca.</string>
+    <string name="etws_primary_default_message_others">Alerta emitida por un goberno local. Pronto haberá máis información dispoñible.</string>
+    <string name="etws_primary_default_message_test">Proba de mensaxes de emerxencia</string>
+    <string name="etws_primary_default_message_tsunami">Abandona de inmediato rexións costeiras e situadas na beira de ríos para dirixirte a un lugar máis seguro, como un terreo elevado.</string>
+</resources>

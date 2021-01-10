@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Jasotako alerta guztiak ezabatu nahi dituzu?</string>
+    <string name="confirm_delete_broadcast">Alerta ezabatu nahi duzu?</string>
+    <string name="enable_cmas_test_alerts_title">Beste proba batzuk</string>
+    <string name="menu_delete">Ezabatu alerta</string>
+    <string name="menu_delete_all">Ezabatu alertak</string>
+    <string name="receive_cmas_in_second_language_summary">Jaso larrialdi-alertak gaztelaniaz, ahal denean</string>
+    <string name="receive_cmas_in_second_language_title">Gaztelania</string>
+</resources>

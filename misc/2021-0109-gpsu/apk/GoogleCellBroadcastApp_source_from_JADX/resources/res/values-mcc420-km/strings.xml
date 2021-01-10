@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">សកម្មភាព</string>
+    <string name="cmas_extreme_alert">ការជូន​ដំណឹង​អំពី​ការព្រមាន​ពេលមានអាសន្នខ្លាំង</string>
+    <string name="cmas_presidential_level_alert">ការជូនដំណឹង​អំពី​ការព្រមាន​ថ្នាក់ជាតិ</string>
+    <string name="cmas_required_monthly_test">ការជូនដំណឹង​អំពីការធ្វើតេស្ត</string>
+    <string name="cmas_severe_alert">ការជូន​ដំណឹង​អំពី​ការព្រមាន​ពេលមានអាសន្ន</string>
+    <string name="enable_emergency_alerts_message_summary">សកម្មភាព​ដែលណែនាំ​ឱ្យធ្វើ​ដែលអាច​ជួយសង្គ្រោះ​ជីវិត ឬទ្រព្យ​សម្បត្តិ</string>
+    <string name="enable_emergency_alerts_message_title">ការជូនដំណឹង</string>
+    <string name="pws_other_message_identifiers">ការជូនដំណឹង</string>
+</resources>

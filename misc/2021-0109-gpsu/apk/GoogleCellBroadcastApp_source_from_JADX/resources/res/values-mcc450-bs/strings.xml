@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Telefon vam može slati obavještenja, kao što su upute za evakuaciju, tokom prirodnih katastrofa. Ova usluga predstavlja saradnju između Nacionalne agencije za upravljanje vanrednim situacijama, mobilnih operatera i proizvođača uređaja.\10\10Možda nećete primati obavještenja ako postoji problem s vašim uređajem ili ako je stanje mreže loše.</string>
+    <string name="cmas_presidential_level_alert">Kritično upozorenje za hitan slučaj</string>
+</resources>

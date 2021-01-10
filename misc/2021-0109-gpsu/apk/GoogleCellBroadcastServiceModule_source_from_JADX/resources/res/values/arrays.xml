@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="additional_cell_broadcast_receiver_packages">
+    </array>
+    <array name="area_info_channels">
+    </array>
+    <array name="config_area_info_receiver_packages">
+        <item>com.android.settings</item>
+    </array>
+    <array name="test_cell_broadcast_receiver_packages">
+    </array>
+</resources>

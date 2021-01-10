@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ব্যায়াম</string>
+    <string name="cmas_extreme_alert">চরম জরুরি সতর্কতা সংক্রান্ত বিজ্ঞপ্তি</string>
+    <string name="cmas_presidential_level_alert">জাতীয় সতর্কতা সংক্রান্ত বিজ্ঞপ্তি</string>
+    <string name="cmas_required_monthly_test">পরীক্ষা সম্পর্কিত সতর্কতা</string>
+    <string name="cmas_severe_alert">জরুরি সতর্কতা সংক্রান্ত বিজ্ঞপ্তি</string>
+    <string name="enable_emergency_alerts_message_summary">জীবন অথবা সম্পত্তি রক্ষা করতে পারে, এমন কাজের সাজেশন</string>
+    <string name="enable_emergency_alerts_message_title">সতর্কতা</string>
+    <string name="pws_other_message_identifiers">সতর্কতা</string>
+</resources>

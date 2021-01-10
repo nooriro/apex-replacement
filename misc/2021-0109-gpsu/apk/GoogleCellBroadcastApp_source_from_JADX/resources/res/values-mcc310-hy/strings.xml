@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Ջնջե՞լ բոլոր ծանուցումները</string>
+    <string name="confirm_delete_broadcast">Ջնջե՞լ այս ծանուցումը։</string>
+    <string name="enable_cmas_test_alerts_title">Այլ փորձնական ծանուցումներ</string>
+    <string name="menu_delete">Ջնջել ծանուցումը</string>
+    <string name="menu_delete_all">Ջնջել ծանուցումները</string>
+    <string name="receive_cmas_in_second_language_summary">Հնարավորության դեպքում արտակարգ իրավիճակների ահազանգերը ստանալ իսպաներեն լեզվով</string>
+    <string name="receive_cmas_in_second_language_title">Իսպաներեն</string>
+</resources>

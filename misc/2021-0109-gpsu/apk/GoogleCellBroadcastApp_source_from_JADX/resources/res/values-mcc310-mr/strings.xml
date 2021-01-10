@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">मिळालेल्या सर्व सूचना हटवायच्या आहेत का?</string>
+    <string name="confirm_delete_broadcast">ही सूचना हटवायची आहे का?</string>
+    <string name="enable_cmas_test_alerts_title">इतर चाचण्या</string>
+    <string name="menu_delete">सूचना हटवा</string>
+    <string name="menu_delete_all">सूचना हटवा</string>
+    <string name="receive_cmas_in_second_language_summary">शक्य असेल तेव्हा स्पॅनिशमध्ये आणीबाणीच्या सूचना मिळवा</string>
+    <string name="receive_cmas_in_second_language_title">स्पॅनिश</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Mashgʻulotlar</string>
+    <string name="cmas_extreme_alert">Jiddiy favqulodda holatlar uchun bildirishnomalar</string>
+    <string name="cmas_presidential_level_alert">Milliy ogohlantirish bildirishnomalari</string>
+    <string name="cmas_required_monthly_test">Ogohlantiruvlarni sinash</string>
+    <string name="cmas_severe_alert">Favqulodda holatlar haqida bildirishnomalar</string>
+    <string name="enable_emergency_alerts_message_summary">Inson hayoti yoki mulkini asrashga oid tavsiya etiladigan amallar</string>
+    <string name="enable_emergency_alerts_message_title">Bildirishnomalar</string>
+    <string name="pws_other_message_identifiers">Bildirishnomalar</string>
+</resources>

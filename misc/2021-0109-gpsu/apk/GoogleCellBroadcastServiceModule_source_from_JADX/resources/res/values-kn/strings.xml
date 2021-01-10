@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">ಶಾಂತರಾಗಿರಿ ಮತ್ತು ಸಮೀಪದಲ್ಲೆಲ್ಲಾದರೂ ಆಶ್ರಯ ಪಡೆದುಕೊಳ್ಳಿ.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">ಶಾಂತರಾಗಿರಿ ಮತ್ತು ಸಮೀಪದಲ್ಲೆಲ್ಲಾದರೂ ಆಶ್ರಯ ಪಡೆದುಕೊಳ್ಳಿ.</string>
+    <string name="etws_primary_default_message_others">ಸ್ಥಳೀಯ ಸರ್ಕಾರ ಎಚ್ಚರಿಕೆಯನ್ನು ನೀಡಿದೆ. ಇನ್ನಷ್ಟು ಮಾಹಿತಿ ಶೀಘ್ರದಲ್ಲಿ ಬರಲಿದೆ.</string>
+    <string name="etws_primary_default_message_test">ತುರ್ತು ಸಂದೇಶಗಳ ಪರೀಕ್ಷೆ</string>
+    <string name="etws_primary_default_message_tsunami">ಕರಾವಳಿ ಪ್ರದೇಶಗಳು ಮತ್ತು ನದಿ ತೀರಗಳಿಂದ ತಕ್ಷಣವೇ ಎತ್ತರದ ಪ್ರದೇಶಗಳಂತಹ ಸುರಕ್ಷಿತ ಸ್ಥಳಕ್ಕೆ ಹೋಗಿ.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">El telèfon et pot enviar alertes, com ara instruccions d\'evacuació, durant els desastres naturals. Aquest servei és una col·laboració entre l\'agència nacional de gestió d\'emergències de Corea del Sud, els proveïdors de xarxa i els fabricants de dispositius.\10\10És possible que no rebis alertes si hi ha un problema al teu dispositiu o si l\'estat de la xarxa és deficient.</string>
+    <string name="cmas_presidential_level_alert">Alerta d\'emergència crítica</string>
+</resources>

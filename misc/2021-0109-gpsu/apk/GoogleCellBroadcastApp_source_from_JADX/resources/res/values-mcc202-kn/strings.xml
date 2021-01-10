@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">GR-ಅಲರ್ಟ್: ಆ್ಯಂಬರ್ ಅಲರ್ಟ್</string>
+    <string name="cmas_extreme_alert">GR-ಅಲರ್ಟ್: ತಕ್ಷಣದ ಅಲರ್ಟ್</string>
+    <string name="cmas_extreme_immediate_likely_alert">GR-ಅಲರ್ಟ್: ತಕ್ಷಣದ ಅಲರ್ಟ್</string>
+    <string name="cmas_extreme_immediate_observed_alert">GR-ಅಲರ್ಟ್: ತಕ್ಷಣದ ಅಲರ್ಟ್</string>
+    <string name="cmas_presidential_level_alert">GR-ಅಲರ್ಟ್: ಪ್ರೆಸಿಡೆನ್ಶಿಯಲ್ ಅಲರ್ಟ್</string>
+    <string name="cmas_severe_alert">GR-ಅಲರ್ಟ್: ಗಂಭೀರ ಅಲರ್ಟ್</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">លុបការជូនដំណឹង​ទាំងអស់​ដែលបានទទួល​ឬ?</string>
+    <string name="confirm_delete_broadcast">លុប​ការជូនដំណឹង​នេះឬ?</string>
+    <string name="enable_cmas_test_alerts_title">ការសាកល្បង​ផ្សេងទៀត</string>
+    <string name="menu_delete">លុប​ការជូនដំណឹង</string>
+    <string name="menu_delete_all">លុប​ការជូនដំណឹង</string>
+    <string name="receive_cmas_in_second_language_summary">ទទួល​ការ​ជូន​ដំណឹង​ពេល​អាសន្នជាភាសាអេស្ប៉ាញ នៅពេលដែលអាចទទួលបាន</string>
+    <string name="receive_cmas_in_second_language_title">​អេស្ប៉ាញ</string>
+</resources>

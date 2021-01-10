@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_dismiss">Versteek</string>
+    <string name="cmas_exercise_alert">Noodwaarskuwing: Oefening-/drilboodskap</string>
+    <string name="cmas_required_monthly_test">Noodberig: Toetsboodskap</string>
+    <string name="enable_public_safety_messages_title">Informatiewe boodskap</string>
+    <string name="public_safety_message">Informatiewe boodskap</string>
+    <string name="pws_other_message_identifiers">Noodwaarskuwing: Toetsboodskap</string>
+</resources>

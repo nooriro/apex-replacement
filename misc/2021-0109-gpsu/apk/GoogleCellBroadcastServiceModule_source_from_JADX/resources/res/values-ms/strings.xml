@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Bertenang dan cari perlindungan di kawasan yang berdekatan.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Bertenang dan cari perlindungan di kawasan yang berdekatan.</string>
+    <string name="etws_primary_default_message_others">Amaran yang dikeluarkan oleh kerajaan tempatan. Maklumat lanjut akan datang.</string>
+    <string name="etws_primary_default_message_test">Ujian mesej kecemasan</string>
+    <string name="etws_primary_default_message_tsunami">Segera beredar dari kawasan pinggir laut dan tepi sungai dan berpindah ke tempat yang lebih selamat seperti kawasan tinggi.</string>
+</resources>

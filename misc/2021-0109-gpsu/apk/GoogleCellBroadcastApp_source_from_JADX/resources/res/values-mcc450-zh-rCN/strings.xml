@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">您的手机可在自然灾害发生期间向您发出警报，例如疏散指示。这项服务是由韩国国家应急管理署、网络服务提供商和设备制造商联合提供的。\10\10如果您的设备存在问题或网络条件不佳，您可能会收不到警报。</string>
+    <string name="cmas_presidential_level_alert">极重要的紧急警报</string>
+</resources>

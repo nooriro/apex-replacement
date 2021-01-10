@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Az esetleges természeti katasztrófák során telefonja fontos értesítéseket, például evakuációs utasításokat küldhet Önnek. Ez a szolgáltatás a National Emergency Management Agency, a mobilhálózati szolgáltatók és az eszközgyártók összefogásával működik.\10\10Az eszközzel kapcsolatos problémák és a gyenge hálózati viszonyok megakadályozhatják az értesítések fogadását.</string>
+    <string name="cmas_presidential_level_alert">Kritikus vészjelzés</string>
+</resources>

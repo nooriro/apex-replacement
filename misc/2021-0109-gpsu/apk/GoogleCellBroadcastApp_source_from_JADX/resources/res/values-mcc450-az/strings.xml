@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Telefonunuz təbii fəlakətlər zamanı evakuasiya təlimatları kimi xəbərdarlıqlar göndərə bilər. Bu xidmət Milli Fövqəladə Hallara Nəzarət İdarəsi, şəbəkə provayderləri və cihaz istehsalçıları arasında əməkdaşlıq şəklində təmin edilir.\10\10Cihazda və ya şəbəkədə problem olduqda xəbərdarlıq almaya bilərsiniz.</string>
+    <string name="cmas_presidential_level_alert">Mühüm təcili siqnal</string>
+</resources>

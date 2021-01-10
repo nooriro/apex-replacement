@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Ukujima</string>
+    <string name="cmas_extreme_alert">Izexwayiso zesimo esiphuthumayo</string>
+    <string name="cmas_presidential_level_alert">Izexwayiso zikazwelonke</string>
+    <string name="cmas_required_monthly_test">Izexwayiso Zokuhlola</string>
+    <string name="cmas_severe_alert">Izexwayiso zesimo esiphuthumayo</string>
+    <string name="enable_emergency_alerts_message_summary">Izenzo ezikhethekile ezingalondoloza izimpilo noma indawo</string>
+    <string name="enable_emergency_alerts_message_title">Izexwayiso</string>
+    <string name="pws_other_message_identifiers">Izexwayiso</string>
+</resources>

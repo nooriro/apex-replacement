@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="disable_opt_out_dialog">true</bool>
+    <bool name="mute_by_physical_button">false</bool>
+    <bool name="override_dnd">true</bool>
+    <bool name="show_amber_alert_settings">false</bool>
+    <bool name="show_date_in_numeric_format">true</bool>
+    <bool name="show_date_time_title">true</bool>
+    <bool name="show_date_time_with_year_title">true</bool>
+    <bool name="show_extreme_alert_settings">false</bool>
+    <bool name="show_main_switch_settings">false</bool>
+    <bool name="show_public_safety_settings">false</bool>
+    <bool name="show_severe_alert_settings">false</bool>
+    <bool name="show_test_settings">false</bool>
+</resources>

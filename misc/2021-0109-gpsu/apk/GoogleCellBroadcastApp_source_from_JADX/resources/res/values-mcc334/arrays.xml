@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="additional_cbs_channels_strings">
+        <item>0x397:rat=gsm, emergency=true, alert_duration=86400000</item>
+        <item>0x032:type=area, emergency=false</item>
+        <item>0x1900:rat=gsm, emergency=false</item>
+        <item>0x112C-0x112F:rat=gsm, emergency=true</item>
+    </array>
+    <array name="cmas_presidential_alerts_channels_range_strings">
+        <item>0x1112:rat=gsm, emergency=true, alert_duration=86400000, always_on=true</item>
+        <item>0x111F:rat=gsm, emergency=true, alert_duration=86400000, always_on=true</item>
+    </array>
+</resources>

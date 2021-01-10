@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">ຮັບຂໍ້ຄວາມທົດສອບສຳລັບລະບົບການເຕືອນຄວາມປອດໄພ</string>
+    <string name="enable_cmas_test_alerts_title">ການທົດສອບລາຍເດືອນທີ່ຈຳເປັນ</string>
+    <string name="public_safety_message">ແຈ້ງ​ເຕືອນ MESSAGE</string>
+</resources>

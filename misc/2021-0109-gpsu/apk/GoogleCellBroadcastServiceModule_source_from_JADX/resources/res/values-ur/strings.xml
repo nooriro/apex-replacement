@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">پُرسکون رہیں اور قریبی پناہ حاصل کریں۔</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">پُرسکون رہیں اور قریبی پناہ حاصل کریں۔</string>
+    <string name="etws_primary_default_message_others">مقامی حکومت کے ذریعہ جاری کردہ الرٹ۔ مزید معلومات جلد آرہی ہیں۔</string>
+    <string name="etws_primary_default_message_test">ایمرجنسی پیغامات کی جانچ</string>
+    <string name="etws_primary_default_message_tsunami">ساحلی خطوں اور دریائی کناروں کے علاقوں کو فوری طور پر خالی کر کے اونچے ٹیلے جیسے کسی زیادہ محفوظ مقام پر چلے جائیں۔</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">कसरतहरू</string>
+    <string name="cmas_extreme_alert">चरम आपत्‌कालीन चेतावनीसम्बन्धी सतर्कताहरू</string>
+    <string name="cmas_presidential_level_alert">राष्ट्रिय चेतावनीसम्बन्धी सतर्कताहरू</string>
+    <string name="cmas_required_monthly_test">परीक्षणसम्बन्धी अलर्टहरू</string>
+    <string name="cmas_severe_alert">आपत्‌कालीन चेतावनीसम्बन्धी सतर्कताहरू</string>
+    <string name="enable_emergency_alerts_message_summary">जीवन वा सम्पत्तिको सुरक्षा गर्न सक्ने सिफारिस गरिएका कार्यहरू</string>
+    <string name="enable_emergency_alerts_message_title">सतर्कताहरू</string>
+    <string name="pws_other_message_identifiers">सतर्कताहरू</string>
+</resources>

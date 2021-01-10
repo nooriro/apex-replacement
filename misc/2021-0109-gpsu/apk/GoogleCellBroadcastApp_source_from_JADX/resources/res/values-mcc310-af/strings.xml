@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Vee alle waarskuwings wat ontvang is, uit?</string>
+    <string name="confirm_delete_broadcast">Vee hierdie waarskuwing uit?</string>
+    <string name="enable_cmas_test_alerts_title">Ander toetse</string>
+    <string name="menu_delete">Vee waarskuwing uit</string>
+    <string name="menu_delete_all">Vee waarskuwings uit</string>
+    <string name="receive_cmas_in_second_language_summary">Ontvang wanneer moontlik noodwaarskuwings in Spaans</string>
+    <string name="receive_cmas_in_second_language_title">Spaans</string>
+</resources>

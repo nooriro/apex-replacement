@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_extreme_alert">Obaveštenje holandske vlade</string>
+    <string name="cmas_extreme_immediate_likely_alert">Obaveštenje holandske vlade</string>
+    <string name="cmas_extreme_immediate_observed_alert">Obaveštenje holandske vlade</string>
+    <string name="cmas_presidential_level_alert">Obaveštenje holandske vlade</string>
+    <string name="cmas_severe_alert">Obaveštenje holandske vlade</string>
+    <string name="enable_public_safety_messages_title">Obaveštenje holandske vlade</string>
+    <string name="public_safety_message">Obaveštenje holandske vlade</string>
+</resources>

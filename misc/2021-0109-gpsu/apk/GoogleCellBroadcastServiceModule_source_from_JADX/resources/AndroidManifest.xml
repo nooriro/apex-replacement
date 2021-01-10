@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.networkstack" android:versionCode="300000000" android:versionName="R-initial" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" package="com.google.android.cellbroadcastservice" platformBuildVersionCode="30" platformBuildVersionName="11">
+    <original-package android:name="com.android.cellbroadcastservice"/>
+    <permission android:name="com.android.cellbroadcastservice.FULL_ACCESS_CELL_BROADCAST_HISTORY" android:protectionLevel="signature"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_CELL_BROADCASTS"/>
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.BROADCAST_SMS"/>
+    <uses-permission android:name="com.android.cellbroadcastservice.FULL_ACCESS_CELL_BROADCAST_HISTORY"/>
+    <protected-broadcast android:name="android.telephony.action.AREA_INFO_UPDATED"/>
+    <uses-sdk android:minSdkVersion="29" android:targetSdkVersion="30"/>
+    <application android:label="Cell Broadcast Service" android:persistent="true" android:process="com.android.networkstack.process" android:extractNativeLibs="false" android:usesCleartextTraffic="true" android:defaultToDeviceProtectedStorage="true" android:directBootAware="true" android:forceQueryable="true">
+        <service android:name="com.android.cellbroadcastservice.DefaultCellBroadcastService" android:permission="android.permission.BIND_CELL_BROADCAST_SERVICE" android:exported="true" android:process="com.android.networkstack.process">
+            <intent-filter>
+                <action android:name="android.telephony.CellBroadcastService"/>
+            </intent-filter>
+        </service>
+        <provider android:name="com.android.cellbroadcastservice.CellBroadcastProvider" android:readPermission="android.permission.READ_CELL_BROADCASTS" android:exported="true" android:multiprocess="false" android:authorities="cellbroadcasts" android:singleUser="true"/>
+        <meta-data android:name="android.content.pm.LOGGING_PARENT" android:value="com.google.android.modulemetadata"/>
+    </application>
+</manifest>

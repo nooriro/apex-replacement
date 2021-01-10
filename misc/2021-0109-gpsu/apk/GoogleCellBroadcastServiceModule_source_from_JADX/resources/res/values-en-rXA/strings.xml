@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">[Šţåý çåļḿ åñð šééķ šĥéļţéŕ ñéåŕɓý. one two three four]</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">[Šţåý çåļḿ åñð šééķ šĥéļţéŕ ñéåŕɓý. one two three four]</string>
+    <string name="etws_primary_default_message_others">[Åļéŕţ îššûéð ɓý ļöçåļ ĝöVéŕñḿéñţ. Ḿöŕé îñƒöŕḿåţîöñ çöḿîñĝ šööñ. one two three four five six seven]</string>
+    <string name="etws_primary_default_message_test">[Éḿéŕĝéñçý ḿéššåĝéš ţéšţ one two three]</string>
+    <string name="etws_primary_default_message_tsunami">[ÉVåçûåţé îḿḿéðîåţéļý ƒŕöḿ çöåšţåļ ŕéĝîöñš åñð ŕîVéŕšîðé åŕéåš ţö å šåƒéŕ þļåçé šûçĥ åš ĥîĝĥ ĝŕöûñð. one two three four five six seven eight nine ten eleven]</string>
+</resources>

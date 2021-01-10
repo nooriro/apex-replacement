@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enable_led_flash">true</bool>
+    <bool name="show_date_time_title">true</bool>
+    <bool name="show_presidential_alerts_settings">true</bool>
+</resources>

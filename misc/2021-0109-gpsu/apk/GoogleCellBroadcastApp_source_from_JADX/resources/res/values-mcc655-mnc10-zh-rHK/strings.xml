@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_area_update_info_alerts_summary">顯示南非地區的 Channel 50 廣播</string>
+    <string name="enable_area_update_info_alerts_title">Channel 50 警示</string>
+</resources>

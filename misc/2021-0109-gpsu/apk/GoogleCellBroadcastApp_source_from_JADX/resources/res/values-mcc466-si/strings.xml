@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">ආරක්ෂක අනතුරු ඇඟවීමේ පද්ධතිය සඳහා පරීක්ෂණ පණිවිඩ ලබා ගන්න</string>
+    <string name="enable_cmas_test_alerts_title">අවශ්‍ය මාසික පරීක්ෂාව</string>
+    <string name="public_safety_message">ඇඟවීමේ පණිවිඩය</string>
+</resources>

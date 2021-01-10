@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_dismiss">Berkitish</string>
+    <string name="cmas_exercise_alert">Favqulodda ogohlantiruv: oʻquv-mashgʻulot xabari</string>
+    <string name="cmas_required_monthly_test">Favqulodda ogohlantiruv: sinov xabari</string>
+    <string name="enable_public_safety_messages_title">Axborotli xabar</string>
+    <string name="public_safety_message">Axborotli xabar</string>
+    <string name="pws_other_message_identifiers">Favqulodda ogohlantiruv: sinov xabari</string>
+</resources>

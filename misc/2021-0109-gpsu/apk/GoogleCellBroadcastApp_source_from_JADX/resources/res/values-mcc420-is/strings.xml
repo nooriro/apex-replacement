@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Æfingar</string>
+    <string name="cmas_extreme_alert">Tilkynningar um bráð neyðartilfelli</string>
+    <string name="cmas_presidential_level_alert">Tilkynningar frá almannavörnum</string>
+    <string name="cmas_required_monthly_test">Prófunartilkynning</string>
+    <string name="cmas_severe_alert">Tilkynningar um neyðarviðvaranir</string>
+    <string name="enable_emergency_alerts_message_summary">Ráðlagðar aðgerðir sem geta bjargað mannslífum og verndað eignir</string>
+    <string name="enable_emergency_alerts_message_title">Tilkynningar</string>
+    <string name="pws_other_message_identifiers">Tilkynningar</string>
+</resources>

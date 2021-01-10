@@ -1,0 +1,6 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/internal/util/State;-><init>()V,frameworks/base/core/java/com/android/internal/util/State.java,32,5,32,25,
+Lcom/android/internal/util/State;->enter()V,frameworks/base/core/java/com/android/internal/util/State.java,39,5,39,25,
+Lcom/android/internal/util/State;->exit()V,frameworks/base/core/java/com/android/internal/util/State.java,47,5,47,25,
+Lcom/android/internal/util/State;->processMessage(Landroid/os/Message;)Z,frameworks/base/core/java/com/android/internal/util/State.java,55,5,55,25,
+Lcom/android/internal/util/State;->getName()Ljava/lang/String;,frameworks/base/core/java/com/android/internal/util/State.java,73,5,73,25,

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">ব্যৱহাৰকাৰীৰ ছেটিংসমূহ নিৰ্বিশেষে গুৰুত্বপূৰ্ণ বাৰ্তাসমূহ আহিব পাৰে</string>
+    <string name="enable_cmas_test_alerts_title">পাঠ বাৰ্তাসমূহ</string>
+</resources>

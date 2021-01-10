@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">ৰাইজক সহায়ৰ বাবে অনুৰোধ কৰা বার্তা</string>
+    <string name="cmas_severe_alert">সকীয়নিমূলক সতৰ্কবাৰ্তা</string>
+    <string name="enable_cmas_amber_alerts_title">ৰাইজক সহায়ৰ বাবে অনুৰোধ কৰা বার্তাসমূহ</string>
+    <string name="enable_cmas_severe_threat_alerts_title">সকীয়নিমূলক সতৰ্কবাৰ্তাসমূহ</string>
+    <string name="enable_public_safety_messages_title">তথ্যসমৃদ্ধ বাৰ্তাসমূহ</string>
+    <string name="public_safety_message">তথ্যসমৃদ্ধ বাৰ্তা</string>
+</resources>

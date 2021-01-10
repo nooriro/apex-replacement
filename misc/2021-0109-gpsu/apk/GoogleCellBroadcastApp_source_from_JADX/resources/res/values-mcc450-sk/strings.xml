@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">V telefóne môžete počas prírodných katastrof dostávať varovania, napríklad pokyny na evakuáciu. Na tejto službe sa podieľajú organizácia National Emergency Management Agency, poskytovatelia siete a výrobcovia zariadení.\10\10Varovania nemusíte dostať, ak sa vyskytne problém so zariadením alebo kvalitou siete.</string>
+    <string name="cmas_presidential_level_alert">Závažné tiesňové upozornenie</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Senaman</string>
+    <string name="cmas_extreme_alert">Makluman Amaran Kecemasan Melampau</string>
+    <string name="cmas_presidential_level_alert">Makluman Kecemasan Kebangsaan</string>
+    <string name="cmas_required_monthly_test">Menguji Makluman</string>
+    <string name="cmas_severe_alert">Makluman Amaran Kecemasan</string>
+    <string name="enable_emergency_alerts_message_summary">Tindakan yang disyorkan untuk menyelamatkan nyawa atau harta</string>
+    <string name="enable_emergency_alerts_message_title">Makluman</string>
+    <string name="pws_other_message_identifiers">Makluman</string>
+</resources>

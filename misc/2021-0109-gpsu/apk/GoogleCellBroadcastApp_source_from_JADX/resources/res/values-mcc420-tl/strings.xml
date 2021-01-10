@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Mga Ehersisyo</string>
+    <string name="cmas_extreme_alert">Mga Matinding Alertong Babalang Pang-emergency</string>
+    <string name="cmas_presidential_level_alert">Mga Pambansang Alertong Babala</string>
+    <string name="cmas_required_monthly_test">Mga Alerto sa Pagsubok</string>
+    <string name="cmas_severe_alert">Mga Pang-emergency na Alertong Babala</string>
+    <string name="enable_emergency_alerts_message_summary">Mga inirerekomendang pagkilos na makakaligtas ng mga buhay o pag-aari</string>
+    <string name="enable_emergency_alerts_message_title">Mga Alerto</string>
+    <string name="pws_other_message_identifiers">Mga Alerto</string>
+</resources>

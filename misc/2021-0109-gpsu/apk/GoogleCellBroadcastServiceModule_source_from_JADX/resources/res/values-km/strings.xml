@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">សូមរក្សាភាពស្ងប់ស្ងាត់ ហើយស្វែងរកជម្រកសុវត្ថិភាពដែលនៅជិត។</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">សូមរក្សាភាពស្ងប់ស្ងាត់ ហើយស្វែងរកជម្រកសុវត្ថិភាពដែលនៅជិត។</string>
+    <string name="etws_primary_default_message_others">ការព្រមាន​ដែលចេញដោយ​រដ្ឋាភិបាល​មូលដ្ឋាន​។ ព័ត៌មាន​បន្ថែម​នឹងមាន​ក្នុងពេល​ឆាប់ៗនេះ។</string>
+    <string name="etws_primary_default_message_test">សារសាកល្បងពេលមានអាសន្ន</string>
+    <string name="etws_primary_default_message_tsunami">ភៀសខ្លួនជាបន្ទាន់ពីតំបន់ឆ្នេរ និងតំបន់តាមមាត់ទន្លេទៅកាន់កន្លែងដែលមានសុវត្ថិភាពជាងនេះ ដូចជាទីទួលណាមួយ។</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Điện thoại có thể gửi cho bạn các cảnh báo, chẳng hạn như hướng dẫn sơ tán khi xảy ra thiên tai. Dịch vụ này là kết quả hợp tác giữa Cơ quan Quản lý Tình trạng Khẩn cấp Quốc gia, nhà mạng và nhà sản xuất thiết bị.\10\10Bạn có thể không nhận được cảnh báo nếu thiết bị gặp sự cố hoặc nếu kết nối mạng kém.</string>
+    <string name="cmas_presidential_level_alert">Cảnh báo khẩn cấp quan trọng</string>
+</resources>

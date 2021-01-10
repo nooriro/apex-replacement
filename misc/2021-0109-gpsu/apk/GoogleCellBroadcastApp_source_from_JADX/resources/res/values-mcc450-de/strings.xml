@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Dein Smartphone kann dir bei Naturkatastrophen Warnungen senden, zum Beispiel Evakuierungsanweisungen. Dieser Dienst ist ein gemeinsames Angebot der National Emergency Management Agency mit Netzwerkanbietern und Geräteherstellern.\10\10Bei einem Problem mit deinem Gerät oder schlechten Netzwerkbedingungen kannst du eventuell keine Warnungen empfangen.</string>
+    <string name="cmas_presidential_level_alert">Kritische Notfallbenachrichtigung</string>
+</resources>

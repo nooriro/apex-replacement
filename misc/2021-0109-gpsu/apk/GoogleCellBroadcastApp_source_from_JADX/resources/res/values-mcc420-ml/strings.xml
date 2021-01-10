@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">വ്യായാമങ്ങൾ</string>
+    <string name="cmas_extreme_alert">അത്യന്തം അടിയന്തര മുന്നറിയിപ്പുകൾ</string>
+    <string name="cmas_presidential_level_alert">ദേശീയ മുന്നറിയിപ്പുകൾ</string>
+    <string name="cmas_required_monthly_test">പരീക്ഷണ മുന്നറിയിപ്പുകൾ</string>
+    <string name="cmas_severe_alert">അടിയന്തര മുന്നറിയിപ്പുകൾ</string>
+    <string name="enable_emergency_alerts_message_summary">ജീവനോ സ്വത്തോ സംരക്ഷിക്കാൻ ശുപാർശ ചെയ്‌തിരിക്കുന്ന പ്രവൃത്തികൾ</string>
+    <string name="enable_emergency_alerts_message_title">മുന്നറിയിപ്പുകൾ</string>
+    <string name="pws_other_message_identifiers">മുന്നറിയിപ്പുകൾ</string>
+</resources>

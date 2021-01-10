@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Padam semua makluman yang diterima?</string>
+    <string name="confirm_delete_broadcast">Padam makluman ini?</string>
+    <string name="enable_cmas_test_alerts_title">Ujian lain</string>
+    <string name="menu_delete">Padam makluman</string>
+    <string name="menu_delete_all">Padam makluman</string>
+    <string name="receive_cmas_in_second_language_summary">Menerima makluman kecemasan dalam bahasa Sepanyol jika boleh</string>
+    <string name="receive_cmas_in_second_language_title">Sepanyol</string>
+</resources>

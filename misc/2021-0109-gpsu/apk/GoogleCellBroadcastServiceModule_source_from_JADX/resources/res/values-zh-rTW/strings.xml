@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">請保持冷靜並尋找附近的避難地點。</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">請保持冷靜並尋找附近的避難地點。</string>
+    <string name="etws_primary_default_message_others">這是由當地政府發布的警報，相關詳細資訊會在稍後提供。</string>
+    <string name="etws_primary_default_message_test">緊急訊息測試</string>
+    <string name="etws_primary_default_message_tsunami">請立即從沿海與河岸地區撤離，前往高地這類較安全的地點。</string>
+</resources>

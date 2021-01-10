@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="amber_alerts_enabled_default">false</bool>
+    <bool name="emergency_alerts_enabled_default">false</bool>
+    <bool name="extreme_threat_alerts_enabled_default">false</bool>
+    <bool name="master_toggle_enabled_default">false</bool>
+    <bool name="public_safety_messages_enabled_default">false</bool>
+    <bool name="severe_threat_alerts_enabled_default">false</bool>
+</resources>

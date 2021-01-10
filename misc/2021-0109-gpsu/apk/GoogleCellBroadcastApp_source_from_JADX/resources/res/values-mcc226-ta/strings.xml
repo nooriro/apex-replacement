@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">RO-எச்சரிக்கை: பயிற்சி எச்சரிக்கை</string>
+    <string name="cmas_extreme_alert">RO-எச்சரிக்கை: தீவிரமான எச்சரிக்கை</string>
+    <string name="cmas_extreme_immediate_likely_alert">RO-எச்சரிக்கை: தீவிரமான எச்சரிக்கை</string>
+    <string name="cmas_extreme_immediate_observed_alert">RO-எச்சரிக்கை: தீவிரமான எச்சரிக்கை</string>
+    <string name="cmas_presidential_level_alert">RO-எச்சரிக்கை: பிரசிடெண்ட்ஷியல் எச்சரிக்கை</string>
+    <string name="cmas_severe_alert">RO-எச்சரிக்கை: அதிதீவிர எச்சரிக்கை</string>
+    <string name="enable_public_safety_messages_title">ஆரஞ்சு எச்சரிக்கை</string>
+    <string name="public_safety_message">RO-எச்சரிக்கை: ஆரஞ்சு எச்சரிக்கை</string>
+</resources>

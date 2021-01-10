@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">I-GR-Alert: I-Amber Alert</string>
+    <string name="cmas_extreme_alert">I-GR-Alert: Isexwayiso esikhulu</string>
+    <string name="cmas_extreme_immediate_likely_alert">I-GR-Alert: Isexwayiso esikhulu</string>
+    <string name="cmas_extreme_immediate_observed_alert">I-GR-Alert: Isexwayiso esikhulu</string>
+    <string name="cmas_presidential_level_alert">I-GR-Alert: Isexwayiso sikamongameli</string>
+    <string name="cmas_severe_alert">I-GR-Alert: Isexwayiso esinamandla</string>
+</resources>

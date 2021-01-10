@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">RO-Alerta: alerta de treinamento</string>
+    <string name="cmas_extreme_alert">RO-Alerta: alerta extremo</string>
+    <string name="cmas_extreme_immediate_likely_alert">RO-Alerta: alerta extremo</string>
+    <string name="cmas_extreme_immediate_observed_alert">RO-Alerta: alerta extremo</string>
+    <string name="cmas_presidential_level_alert">RO-Alerta: alerta presidencial</string>
+    <string name="cmas_severe_alert">RO-Alerta: alerta grave</string>
+    <string name="enable_public_safety_messages_title">Alerta laranja</string>
+    <string name="public_safety_message">RO-Alerta: alerta laranja</string>
+</resources>

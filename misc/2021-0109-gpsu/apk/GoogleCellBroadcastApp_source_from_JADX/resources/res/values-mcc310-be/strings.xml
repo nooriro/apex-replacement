@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Выдаліць усе атрыманыя абвесткі?</string>
+    <string name="confirm_delete_broadcast">Выдаліць гэту абвестку?</string>
+    <string name="enable_cmas_test_alerts_title">Іншыя тэсты</string>
+    <string name="menu_delete">Выдаліць абвестку</string>
+    <string name="menu_delete_all">Выдаліць абвесткі</string>
+    <string name="receive_cmas_in_second_language_summary">Атрымліваць абвесткі пра надзвычайныя сітуацыі на іспанскай мове, калі магчыма</string>
+    <string name="receive_cmas_in_second_language_title">Абвесткі на іспанскай мове</string>
+</resources>

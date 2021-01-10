@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Telefonoak alertak bidal diezazkizuke (adibidez, ebakuatzeko argibideak) hondamendi naturaletan. Larrialdiak kudeatzeko agentzia nazionalaren, sare-hornitzaileen eta gailu-fabrikatzaileen arteko elkarlana da zerbitzua.\10\10Agian ez duzu jasoko alertarik gailuak arazoren bat badu edo sarearen baldintzak txarrak badira.</string>
+    <string name="cmas_presidential_level_alert">Ezinbesteko larrialdi-alerta</string>
+</resources>

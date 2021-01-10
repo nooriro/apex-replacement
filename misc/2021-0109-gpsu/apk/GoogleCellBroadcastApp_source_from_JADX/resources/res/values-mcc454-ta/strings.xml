@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_extreme_alert">அவசரகால எச்சரிக்கை</string>
+    <string name="cmas_presidential_level_alert">மேம்பட்ட அவசரகால எச்சரிக்கை</string>
+    <string name="cmas_required_monthly_test">சோதனைச் செய்தி</string>
+</resources>

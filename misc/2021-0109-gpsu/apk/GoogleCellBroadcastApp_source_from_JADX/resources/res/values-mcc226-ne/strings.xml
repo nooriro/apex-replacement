@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">RO-Alert: व्यायामसम्बन्धी सतर्कता</string>
+    <string name="cmas_extreme_alert">RO-Alert: चरम गम्भीरता भएको सतर्कता</string>
+    <string name="cmas_extreme_immediate_likely_alert">RO-Alert: चरम गम्भीरता भएको सतर्कता</string>
+    <string name="cmas_extreme_immediate_observed_alert">RO-Alert: चरम गम्भीरता भएको सतर्कता</string>
+    <string name="cmas_presidential_level_alert">RO-Alert: राष्ट्राध्यक्षीय सतर्कता</string>
+    <string name="cmas_severe_alert">RO-Alert: गम्भीर सतर्कता</string>
+    <string name="enable_public_safety_messages_title">ओरेन्ज अलर्ट</string>
+    <string name="public_safety_message">RO-Alert: ओरेन्ज अलर्ट</string>
+</resources>

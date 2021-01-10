@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Vil du slette alle de advarsler, du har modtaget?</string>
+    <string name="confirm_delete_broadcast">Vil du slette denne underretning?</string>
+    <string name="enable_cmas_test_alerts_title">Andre test</string>
+    <string name="menu_delete">Slet underretning</string>
+    <string name="menu_delete_all">Slet underretninger</string>
+    <string name="receive_cmas_in_second_language_summary">Modtag nødalarmer på spansk, når det er muligt</string>
+    <string name="receive_cmas_in_second_language_title">Spansk</string>
+</resources>

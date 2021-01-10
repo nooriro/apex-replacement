@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">অনুশীলনসমূহ</string>
+    <string name="cmas_extreme_alert">গুৰুতৰ জৰুৰীকালীন সকীয়নিমূলক সতৰ্কবাৰ্তাসমূহ</string>
+    <string name="cmas_presidential_level_alert">ৰাষ্ট্ৰীয় সকীয়নিমূলক সতৰ্কবাৰ্তাসমূহ</string>
+    <string name="cmas_required_monthly_test">পৰীক্ষণৰ বাবে ব্যৱহৃত সতৰ্কবাৰ্তা</string>
+    <string name="cmas_severe_alert">জৰুৰীকালীন সকীয়নিমূলক সতৰ্কবাৰ্তাসমূহ</string>
+    <string name="enable_emergency_alerts_message_summary">জীৱন অথবা সম্পত্তি ৰক্ষা কৰিব পৰা চুপাৰিছ কৰা কাৰ্যসমূহ</string>
+    <string name="enable_emergency_alerts_message_title">সতৰ্কবার্তাসমূহ</string>
+    <string name="pws_other_message_identifiers">সতৰ্কবার্তাসমূহ</string>
+</resources>

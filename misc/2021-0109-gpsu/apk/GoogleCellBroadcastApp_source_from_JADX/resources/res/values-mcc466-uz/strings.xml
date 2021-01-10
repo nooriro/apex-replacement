@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Xavfsizlik tizimi uchun sinov xabarlarini olish</string>
+    <string name="enable_cmas_test_alerts_title">Majburiy oylik sinov</string>
+    <string name="public_safety_message">Ogohlantiruv xabari</string>
+</resources>

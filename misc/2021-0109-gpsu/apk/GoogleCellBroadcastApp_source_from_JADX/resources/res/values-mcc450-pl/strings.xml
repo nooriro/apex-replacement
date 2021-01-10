@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Podczas klęsk żywiołowych telefon może wysyłać Ci alerty, na przykład instrukcje dotyczące ewakuacji. Ta usługa powstała we współpracy z Krajową Agencją Zarządzania Kryzysowego, dostawcami usług sieciowych i producentami urządzeń.\10\10W przypadku problemów z urządzeniem lub złego stanu sieci alerty mogą być niedostępne.</string>
+    <string name="cmas_presidential_level_alert">Alert o zagrożeniu krytycznym</string>
+</resources>

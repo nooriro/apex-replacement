@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Puwede kang padalhan ng iyong telepono ng mga alerto, tulad ng mga tagubilin sa paglikas, kapag may mga natural na sakuna. Ang serbisyong ito ay sama-samang pagsisikap ng National Emergency Management Agency, mga network provider, at mga manufacturer ng device.\10\10Baka hindi ka makatanggap ng mga alerto kung may problema sa iyong device o kung hindi maganda ang mga kundisyon ng network.</string>
+    <string name="cmas_presidential_level_alert">Mahalagang alertong pang-emergency</string>
+</resources>

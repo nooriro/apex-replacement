@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Telefon vam lahko med naravnimi nesrečami pošilja opozorila, na primer navodila za evakuacijo. To storitev je plod sodelovanja med Državno agencijo za upravljanje ob nesrečah, operaterji omrežij in proizvajalci naprav.\10\10Opozoril morda ne boste mogli prejeti v primeru težav z napravo ali slabega signala omrežja.</string>
+    <string name="cmas_presidential_level_alert">Kritično opozorilo v sili</string>
+</resources>

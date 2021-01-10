@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ବ୍ୟାୟାମ</string>
+    <string name="cmas_extreme_alert">ଗୁରୁତର ଜରୁରୀକାଳୀନ ଚେତାବନୀ ଆଲର୍ଟ</string>
+    <string name="cmas_presidential_level_alert">ଜାତୀୟ ଚେତାବନୀ ଆଲର୍ଟ</string>
+    <string name="cmas_required_monthly_test">ଟେଷ୍ଟିଂ ଆଲର୍ଟ</string>
+    <string name="cmas_severe_alert">ଜରୁରୀକାଳୀନ ଚେତାବନୀ ଆଲର୍ଟ</string>
+    <string name="enable_emergency_alerts_message_summary">ସୁପାରିଶ କରାଯାଇଥିବା କାର୍ଯ୍ୟ, ଯାହା ଜୀବନ କିମ୍ୱା ସମ୍ପତ୍ତି ବଞ୍ଚାଇପାରିବ</string>
+    <string name="enable_emergency_alerts_message_title">ଆଲର୍ଟ</string>
+    <string name="pws_other_message_identifiers">ଆଲର୍ଟ</string>
+</resources>

@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: soong_zip
+
+Name: AndroidManifest.xml
+SHA-256-Digest: Yjy/oS+hyl3XkQkR4moaC+15YqR7lhfo9tyFFXwsh8c=
+
+Name: android/util/LocalLog.ReadOnlyLocalLog.uau
+SHA-256-Digest: fX3MQP4IhofvntdIiYOvzAbKZt+uDax9QmzI0mI4TNE=
+
+Name: android/util/LocalLog.uau
+SHA-256-Digest: 4/n4bX4WJKjgIlOAMOGInZBoqSmK7QVkC8GniEPyRos=
+
+Name: assets/NOTICE.html.gz
+SHA-256-Digest: EnXuntCoz6lZlwbu/pIw4BGuNpM0usBSFTyFVPIfkEQ=
+
+Name: classes.dex
+SHA-256-Digest: eZIJXmlLZ0xj2zF/h2IWtezlI+ZL/oV6U5tF9wF+QnM=
+
+Name: com/android/internal/util/IState.uau
+SHA-256-Digest: Mt7XZ7zxDmUmyFoJbH+y6Q18ZXv8MS9tWpnrn1rRCjY=
+
+Name: com/android/internal/util/Preconditions.uau
+SHA-256-Digest: jnR0H5rLh2vwGUUQy6bFiZZStbOcT5ELj/18AsSJUlc=
+
+Name: com/android/internal/util/State.uau
+SHA-256-Digest: 8iyOh0wovdVsiKV/YkgMZx/sLoBDvIzZthsCtAzQhoM=
+
+Name: com/android/internal/util/StateMachine.uau
+SHA-256-Digest: 8apJ5h3wFa6rk8bpHvlgdBw9CVaP3dK/MYl4fUx9fQU=
+
+Name: resources.arsc
+SHA-256-Digest: 615HBA+RXGvLbBIzzOXnA1K1WIuqXaBoqt1u+UH68X8=
+

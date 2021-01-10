@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_extreme_alert">ہنگامی الرٹ</string>
+    <string name="cmas_presidential_level_alert">انتہائی ہنگامی الرٹ</string>
+    <string name="cmas_required_monthly_test">ٹیسٹ پیغام</string>
+</resources>

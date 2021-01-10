@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Harjutused</string>
+    <string name="cmas_extreme_alert">Ekstreemse hädaolukorra hoiatusteatised</string>
+    <string name="cmas_presidential_level_alert">Riiklikud hoiatusteatised</string>
+    <string name="cmas_required_monthly_test">Hoiatuste testimine</string>
+    <string name="cmas_severe_alert">Hädaolukorra hoiatusteatised</string>
+    <string name="enable_emergency_alerts_message_summary">Soovitatud toimingud, mis võivad päästa elusid või vara</string>
+    <string name="enable_emergency_alerts_message_title">Hoiatused</string>
+    <string name="pws_other_message_identifiers">Hoiatused</string>
+</resources>

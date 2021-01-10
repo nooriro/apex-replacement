@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_area_update_info_alerts_summary">दक्षिण अफ़्रीका में चैनल 50 के ब्रॉडकास्ट दिखाएं</string>
+    <string name="enable_area_update_info_alerts_title">चैनल 50 की सूचनाएं चालू करें</string>
+</resources>

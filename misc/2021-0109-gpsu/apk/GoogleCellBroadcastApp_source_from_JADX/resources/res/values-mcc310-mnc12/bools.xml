@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="disable_severe_when_extreme_disabled">false</bool>
+    <bool name="ignore_messages_in_ecbm">true</bool>
+    <bool name="show_test_settings">false</bool>
+</resources>

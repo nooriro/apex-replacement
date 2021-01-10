@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">සන්සුන්ව ඉන්න සහ අවට ඇති නවාතැන් පහසුකම් බලන්න.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">සන්සුන්ව ඉන්න සහ අවට ඇති නවාතැන් පහසුකම් බලන්න.</string>
+    <string name="etws_primary_default_message_others">ප්‍රාදේශීය රජය විසින් නිකුත් කළ ඇඟවීම. තව තොරතුරු ඉක්මනින් පැමිණේ.</string>
+    <string name="etws_primary_default_message_test">හදිසි පණිවිඩ පරීක්ෂණය</string>
+    <string name="etws_primary_default_message_tsunami">මුහුදු බඩ ප්‍රදේශ සහ ගංඉවුරු ප්‍රදේශ සිට ඉහළ ප්‍රදේශයක් වැනි ආරක්‍ෂිත තැනකට දැන්ම යන්න.</string>
+</resources>

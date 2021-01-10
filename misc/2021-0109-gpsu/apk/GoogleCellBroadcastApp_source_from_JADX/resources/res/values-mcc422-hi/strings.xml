@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">एक्सरसाइज़ की सूचना</string>
+    <string name="cmas_presidential_level_alert">आपातकालीन स्थिति की सूचना</string>
+    <string name="pws_other_message_identifiers">चेतावनी</string>
+</resources>

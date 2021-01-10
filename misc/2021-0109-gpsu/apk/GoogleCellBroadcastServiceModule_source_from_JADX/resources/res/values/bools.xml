@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_sms_utf8_support">false</bool>
+    <bool name="cross_sim_duplicate_detection">true</bool>
+    <bool name="duplicate_compare_body">false</bool>
+    <bool name="duplicate_compare_service_category">true</bool>
+    <bool name="reset_on_power_cycle_or_airplane_mode">false</bool>
+    <bool name="use_new_geo_fence_calculation">false</bool>
+</resources>

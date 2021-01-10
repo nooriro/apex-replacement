@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">ప్రశాంతంగా ఉండండి మరియు దగ్గర్లో తలదాచుకోండి.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">ప్రశాంతంగా ఉండండి మరియు దగ్గర్లో తలదాచుకోండి.</string>
+    <string name="etws_primary_default_message_others">స్థానిక ప్రభుత్వం‌చే అలర్ట్ జారీ చేయబడింది. మరింత సమాచారం త్వరలో వస్తుంది.</string>
+    <string name="etws_primary_default_message_test">అత్యవసర సందేశాల పరీక్ష</string>
+    <string name="etws_primary_default_message_tsunami">వెంటనే తీర ప్రాంతాలు మరియు నదీ పరీవాహక ప్రాంతాలను ఖాళీ చేసి మెట్ట ప్రాంతాలకు తరలి వెళ్లండి.</string>
+</resources>

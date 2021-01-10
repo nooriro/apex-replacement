@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">演习</string>
+    <string name="cmas_extreme_alert">极严重紧急警报</string>
+    <string name="cmas_presidential_level_alert">国家紧急警报</string>
+    <string name="cmas_required_monthly_test">测试警报</string>
+    <string name="cmas_severe_alert">紧急警报</string>
+    <string name="enable_emergency_alerts_message_summary">可挽救生命或财产的推荐措施</string>
+    <string name="enable_emergency_alerts_message_title">警报</string>
+    <string name="pws_other_message_identifiers">警报</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Tabiiy ofatlar vaqtida telefoningiz evakuatsiya koʻrsatmalari kabi muhim xabarlarni chiqarishi mumkin. Bu xizmat Milliy favqulodda vaziyatlarni boshqarish agentligi, tarmoq operatorlari va qurilma ishlab chiqaruvchilari tomonidan birgalikda ishlab chiqilgan.\10\10Qurilmada yoki tarmoqda muammolar boʻlsa, sizga muhim xabarlar kelmasligi mumkin.</string>
+    <string name="cmas_presidential_level_alert">Favqulodda jiddiy ogohlantirish</string>
+</resources>

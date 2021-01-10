@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">Mesazhi i kërkesës për ndihmë nga publiku</string>
+    <string name="cmas_severe_alert">Sinjalizim paralajmërues</string>
+    <string name="enable_cmas_amber_alerts_title">Mesazhet e kërkesës për ndihmë nga publiku</string>
+    <string name="enable_cmas_severe_threat_alerts_title">Sinjalizime paralajmëruese</string>
+    <string name="enable_public_safety_messages_title">Mesazhe informuese</string>
+    <string name="public_safety_message">Mesazh informues</string>
+</resources>

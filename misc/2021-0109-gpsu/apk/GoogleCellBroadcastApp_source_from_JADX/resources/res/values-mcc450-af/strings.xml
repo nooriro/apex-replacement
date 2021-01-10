@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Jou foon kan vir jou waarskuwings, soos ontruiminginstruksies, stuur gedurende natuurlike rampe. Hierdie diens is \'n medewerking tussen die Nasionale Noodbestuuragentskap, netwerkverskaffers en toestelvervaardigers.\10\10Jy sal dalk nie waarskuwings ontvang as daar \'n probleem met jou toestel is of as netwerkomstandighede swak is nie.</string>
+    <string name="cmas_presidential_level_alert">Kritieke noodberig</string>
+</resources>

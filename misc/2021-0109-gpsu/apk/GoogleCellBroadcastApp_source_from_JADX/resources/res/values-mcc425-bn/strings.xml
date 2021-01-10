@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">জনগণকে সাহায্য করার জন্য অনুরোধের মেসেজ</string>
+    <string name="cmas_severe_alert">সতর্কতা সংক্রান্ত বিজ্ঞপ্তি</string>
+    <string name="enable_cmas_amber_alerts_title">জনগণকে সাহায্য করার জন্য অনুরোধের মেসেজ</string>
+    <string name="enable_cmas_severe_threat_alerts_title">সতর্কতা সংক্রান্ত বিজ্ঞপ্তি</string>
+    <string name="enable_public_safety_messages_title">তথ্যমূলক মেসেজ</string>
+    <string name="public_safety_message">তথ্যমূলক মেসেজ</string>
+</resources>

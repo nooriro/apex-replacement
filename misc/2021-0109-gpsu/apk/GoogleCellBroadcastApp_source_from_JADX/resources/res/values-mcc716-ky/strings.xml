@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_dismiss">Жашыруу</string>
+    <string name="cmas_exercise_alert">Шашылыш билдирүү: Көнүгүү билдирүүсү</string>
+    <string name="cmas_required_monthly_test">Өзгөчө кырдаал жөнүндө шашылыш билдирүү: Сынамык</string>
+    <string name="enable_public_safety_messages_title">Маалыматтык билдирүү</string>
+    <string name="public_safety_message">Маалыматтык билдирүү</string>
+    <string name="pws_other_message_identifiers">Шашылыш билдирүү: Сынамык</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ವ್ಯಾಯಾಮಗಳು</string>
+    <string name="cmas_extreme_alert">ತೀವ್ರ ತುರ್ತು ಎಚ್ಚರಿಕೆ ಅಲರ್ಟ್‌ಗಳು</string>
+    <string name="cmas_presidential_level_alert">ರಾಷ್ಟ್ರೀಯ ಎಚ್ಚರಿಕೆ ಅಲರ್ಟ್‌ಗಳು</string>
+    <string name="cmas_required_monthly_test">ಟೆಸ್ಟ್ ಅಲರ್ಟ್‌ಗಳು</string>
+    <string name="cmas_severe_alert">ತುರ್ತು ಎಚ್ಚರಿಕೆ ಅಲರ್ಟ್‌ಗಳು</string>
+    <string name="enable_emergency_alerts_message_summary">ಜೀವಗಳು ಅಥವಾ ಆಸ್ತಿಯನ್ನು ಉಳಿಸಬಹುದಾದ ಶಿಫಾರಸು ಮಾಡಿದ ಕ್ರಮಗಳು</string>
+    <string name="enable_emergency_alerts_message_title">ಅಲರ್ಟ್‌ಗಳು</string>
+    <string name="pws_other_message_identifiers">ಅಲರ್ಟ್‌ಗಳು</string>
+</resources>

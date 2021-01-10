@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">పబ్లిక్ నుంచి సహాయాన్ని అభ్యర్థించే సందేశం</string>
+    <string name="cmas_severe_alert">హెచ్చరిక అలర్ట్</string>
+    <string name="enable_cmas_amber_alerts_title">పబ్లిక్ నుంచి సహాయాన్ని అభ్యర్థించే సందేశాలు</string>
+    <string name="enable_cmas_severe_threat_alerts_title">హెచ్చరిక అలర్ట్‌లు</string>
+    <string name="enable_public_safety_messages_title">సమాచారాత్మక సందేశాలు</string>
+    <string name="public_safety_message">సమాచారాత్మక సందేశం</string>
+</resources>

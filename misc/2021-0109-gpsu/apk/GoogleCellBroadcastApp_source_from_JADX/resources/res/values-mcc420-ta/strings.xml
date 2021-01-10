@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">உடற்பயிற்சிகள்</string>
+    <string name="cmas_extreme_alert">தீவிரமான அவசரகால எச்சரிக்கை விழிப்பூட்டல்கள்</string>
+    <string name="cmas_presidential_level_alert">தேசிய அளவிலான எச்சரிக்கை விழிப்பூட்டல்கள்</string>
+    <string name="cmas_required_monthly_test">சோதனை விழிப்பூட்டல்கள்</string>
+    <string name="cmas_severe_alert">அவசரகால எச்சரிக்கை விழிப்பூட்டல்கள்</string>
+    <string name="enable_emergency_alerts_message_summary">உயிரையோ உடைமைகளையோ பாதுகாப்பதற்குப் பரிந்துரைக்கப்படும் நடவடிக்கைகள்</string>
+    <string name="enable_emergency_alerts_message_title">விழிப்பூட்டல்கள்</string>
+    <string name="pws_other_message_identifiers">விழிப்பூட்டல்கள்</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_dismiss">മറയ്ക്കുക</string>
+    <string name="cmas_exercise_alert">അടിയന്തര മുന്നറിയിപ്പ്: പരിശീലന/ഡ്രിൽ സന്ദേശം</string>
+    <string name="cmas_required_monthly_test">അടിയന്തര മുന്നറിയിപ്പ്: പരീക്ഷണ സന്ദേശം</string>
+    <string name="enable_public_safety_messages_title">അറിവ് നൽകുന്ന സന്ദേശം</string>
+    <string name="public_safety_message">അറിവ് നൽകുന്ന സന്ദേശം</string>
+    <string name="pws_other_message_identifiers">അടിയന്തര മുന്നറിയിപ്പ്: പരീക്ഷണ സന്ദേശം</string>
+</resources>

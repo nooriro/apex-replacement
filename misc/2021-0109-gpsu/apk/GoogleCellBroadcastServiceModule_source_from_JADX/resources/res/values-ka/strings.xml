@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">შეინარჩუნეთ სიმშვიდე და იპოვეთ ახლომდებარე თავშესაფარი.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">შეინარჩუნეთ სიმშვიდე და იპოვეთ ახლომდებარე თავშესაფარი.</string>
+    <string name="etws_primary_default_message_others">ადგილობრივი მთავრობის მიერ გამოცემულია გაფრთხილება. დამატებითი ინფორმაცია მალე იქნება ხელმისაწვდომი.</string>
+    <string name="etws_primary_default_message_test">სატესტო საგანგებო შეტყობინება</string>
+    <string name="etws_primary_default_message_tsunami">დაუყოვნებლივ გადაინაცვლეთ სანაპირო რეგიონებიდან და მდინარისპირა ტერიტორიებიდან უსაფრთხო ადგილზე (მაგალითად, შემაღლებულ ადგილზე).</string>
+</resources>

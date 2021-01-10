@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Receber mensagens de teste para o sistema de alerta de segurança</string>
+    <string name="enable_cmas_test_alerts_title">Teste mensal obrigatório</string>
+    <string name="public_safety_message">Mensagem de alerta</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Telefoni yt mund të të dërgojë sinjalizime, si udhëzime për evakuimet, gjatë katastrofave natyrore. Ky shërbim është një bashkëpunim mes Agjencisë Kombëtare të Menaxhimit të Urgjencave, ofruesve të rrjetit dhe prodhuesve të pajisjeve.\10\10Mund të mos marrësh sinjalizime nëse ka një problem me pajisjen tënde ose nëse kushtet e rrjetit janë të këqija.</string>
+    <string name="cmas_presidential_level_alert">Alarm kritik urgjence</string>
+</resources>

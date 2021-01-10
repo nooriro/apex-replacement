@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="public_safety_messages_channels_range_strings">
+        <item>0x112C:rat=gsm, emergency=true</item>
+        <item>0x112D:rat=gsm, emergency=true</item>
+    </array>
+    <array name="state_local_test_alert_range_strings">
+        <item>0x112E:rat=gsm, emergency=true</item>
+        <item>0x112F:rat=gsm, emergency=true</item>
+    </array>
+</resources>

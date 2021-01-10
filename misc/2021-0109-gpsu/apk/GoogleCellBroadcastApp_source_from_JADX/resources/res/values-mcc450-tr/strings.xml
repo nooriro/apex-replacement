@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_header_summary">Telefonunuz doğal felaketler sırasında tahliye emirleri gibi uyarıları size gönderebilir. Bu hizmet Ulusal Acil Durum Yönetim Dairesi, ağ sağlayıcılar ve cihaz üreticileri arasında iş birliğiyle sunulmaktadır.\10\10Cihazınızda sorun olması veya ağ koşullarının kötü olması durumunda uyarı almayabilirsiniz.</string>
+    <string name="cmas_presidential_level_alert">Kritik acil durum uyarısı</string>
+</resources>

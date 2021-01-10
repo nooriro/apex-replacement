@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete_all_broadcasts">Xóa tất cả cảnh báo đã nhận?</string>
+    <string name="confirm_delete_broadcast">Xóa cảnh báo này?</string>
+    <string name="enable_cmas_test_alerts_title">Các cảnh báo thử nghiệm khác</string>
+    <string name="menu_delete">Xóa cảnh báo</string>
+    <string name="menu_delete_all">Xóa cảnh báo</string>
+    <string name="receive_cmas_in_second_language_summary">Nhận cảnh báo khẩn cấp bằng tiếng Việt khi có thể</string>
+    <string name="receive_cmas_in_second_language_title">Tiếng Việt</string>
+</resources>
